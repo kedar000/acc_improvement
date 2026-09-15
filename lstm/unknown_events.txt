@@ -1,0 +1,1068 @@
+')'
+"15110\t163653\tWe haven't made that decision here though.\tWe haven't made that decision here though.\t7783757\t1472103020017\t1472103020110\tt\t84"
+"15110\t163653\tWe haven't made that decision here though.\tWe haven't made that decision here though.\t7783999\t1472103021457\t1472103021561\tBKSP\t8"
+"15110\t163653\tWe haven't made that decision here though.\tWe haven't made that decision here though.\t7784000\t1472103021717\t1472103021784\tBKSP\t8"
+"15110\t163653\tWe haven't made that decision here though.\tWe haven't made that decision here though.\t7784001\t1472103025188\t1472103025729\tSHIFT\t16"
+"15110\t163653\tWe haven't made that decision here though.\tWe haven't made that decision here though.\t7784002\t1472103025542\t1472103025760\t)"
+"152154\t1653215\tYou can't destroy us, and you can't stop us.\tyou camt destroy us , and you cant stop us)"
+"199396\t2160876\tPenske wouldn't come here without a good idea it would hold up.\tPenske wouldnt come here without a good idea it would hold up.)"
+"216723\t2351167\tI'm going to class.\tIm going to class.)"
+"217570\t2361106\tBut his father likes what he sees from his son's engine.\tBut his father likes what he sees from his son's engine. \t112183726\t1474832719046\t1474832719199\ts\t83"
+"217570\t2361106\tBut his father likes what he sees from his son's engine.\tBut his father likes what he sees from his son's engine. \t112183727\t1474832719174\t1474832719361\t \t32"
+"217570\t2361106\tBut his father likes what he sees from his son's engine.\tBut his father likes what he sees from his son's engine. \t112183729\t1474832719491\t1474832719558\tBKSP\t8"
+"217570\t2361106\tBut his father likes what he sees from his son's engine.\tBut his father likes what he sees from his son's engine. \t112183731\t1474832719616\t1474832719695\tBKSP\t8"
+"217570\t2361106\tBut his father likes what he sees from his son's engine.\tBut his father likes what he sees from his son's engine. \t112183735\t1474832719745\t1474832719843\tBKSP\t8"
+"217570\t2361106\tBut his father likes what he sees from his son's engine.\tBut his father likes what he sees from his son's engine. \t112183740\t1474832720056\t1474832720164\t'\t222"
+"217570\t2361106\tBut his father likes what he sees from his son's engine.\tBut his father likes what he sees from his son's engine. \t112183746\t1474832720143\t1474832720328\ts\t83"
+"217570\t2361106\tBut his father likes what he sees from his son's engine.\tBut his father likes what he sees from his son's engine. \t112183762\t1474832720238\t1474832720388\t \t32"
+"217570\t2361106\tBut his father likes what he sees from his son's engine.\tBut his father likes what he sees from his son's engine. \t112183765\t1474832720543\t1474832720651\te\t69"
+"217570\t2361106\tBut his father likes what he sees from his son's engine.\tBut his father likes what he sees from his son's engine. \t112183767\t1474832720637\t1474832720779\tn\t78"
+"217570\t2361106\tBut his father likes what he sees from his son's engine.\tBut his father likes what he sees from his son's engine. \t112183770\t1474832720768\t1474832720903\tg\t71"
+"217570\t2361106\tBut his father likes what he sees from his son's engine.\tBut his father likes what he sees from his son's engine. \t112183772\t1474832720849\t1474832720962\ti\t73"
+"217570\t2361106\tBut his father likes what he sees from his son's engine.\tBut his father likes what he sees from his son's engine. \t112183789\t1474832720932\t1474832721057\tn\t78"
+"217570\t2361106\tBut his father likes what he sees from his son's engine.\tBut his father likes what he sees from his son's engine. \t112183793\t1474832720982\t1474832721114\te\t69"
+"217570\t2361106\tBut his father likes what he sees from his son's engine.\tBut his father likes what he sees from his son's engine. \t112183797\t1474832721162\t1474832721292\t.\t190"
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112183978\t1474832724078\t1474832724233\tW\t87'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112183983\t1474832724038\t1474832724257\tSHIFT\t16'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112183988\t1474832724246\t1474832724382\tA\t65'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112183993\t1474832724393\t1474832724504\th\t72'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112183996\t1474832724876\t1474832724952\tBKSP\t8'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112183997\t1474832724993\t1474832725082\tBKSP\t8'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112183998\t1474832725186\t1474832725280\th\t72'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184001\t1474832725257\t1474832725498\ta\t65'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184007\t1474832725406\t1474832725612\tt\t84'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184012\t1474832721254\t1474832725678\t \t32'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184016\t1474832725671\t1474832725792\ti\t73'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184021\t1474832725759\t1474832725865\ts\t83'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184028\t1474832725800\t1474832725962\t \t32'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184043\t1474832725957\t1474832726080\th\t72'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184045\t1474832726033\t1474832726218\ta\t65'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184047\t1474832726198\t1474832726296\tp\t80'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184051\t1474832726342\t1474832726445\tp\t80'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184058\t1474832726453\t1474832726598\te\t69'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184080\t1474832726536\t1474832726668\tn\t78'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184081\t1474832726702\t1474832726848\ti\t73'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184084\t1474832726796\t1474832726938\tn\t78'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184086\t1474832726947\t1474832727180\t \t32'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184088\t1474832727152\t1474832727326\tt\t84'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184103\t1474832727294\t1474832727442\to\t79'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184106\t1474832727399\t1474832727583\t \t32'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184108\t1474832727479\t1474832727631\tt\t84'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184109\t1474832727556\t1474832727684\th\t72'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184110\t1474832727677\t1474832727825\te\t69'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184150\t1474832727708\t1474832727992\t \t32'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184152\t1474832727941\t1474832728118\ts\t83'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184154\t1474832728076\t1474832728214\tt\t84'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184157\t1474832728190\t1474832728265\ti\t73'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184160\t1474832728745\t1474832728824\tBKSP\t8'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184165\t1474832728946\t1474832729039\to\t79'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184171\t1474832729048\t1474832729204\tc\t67'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184186\t1474832729191\t1474832729274\tk\t75'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184189\t1474832729264\t1474832729422\t \t32'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184194\t1474832729535\t1474832729650\tp\t80'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184199\t1474832729609\t1474832729712\tr\t82'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184204\t1474832729703\t1474832729824\ti\t73'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184320\t1474832729803\t1474832729918\tc\t67'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184323\t1474832729976\t1474832730074\te\t69'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184327\t1474832730290\t1474832730482\t)'
+'217570\t2361115\tWhat is happening to the stock price?\tWhat is happenin to the stock price?\t112184332\t1474832730145\t1474832730513\tSHIFT\t16'
+'228809\t2452210\tI wouldn\'t say I\'m 100 percent but I\'m darn close.\tI would\'t say Im 100 percent but I"m darn close.)'
+"299373\t3217941\tJacksonville's secondary is thin because of injuries.\tJacksonvilles secondary is thin because of injuries.)"
+"302022\t3249473\tI think I'm OK.\tI think im OK./)"
+"305365\t3285489\tI'll just have her call Tracy.\tIll just have call Tracy.)"
+"308358\t3317717\tI hope we'll get the game here in Denver.\tI hope well get the game here in Denver.)"
+"360212\t3883582\tI'm very sorry about that mix up.\tIm very sorry about that mix up)"
+"381385\t4116791\tI'm leaving around noon tomorrow to catch a flight.\tIm leaving around noon tomorrow to catch a flight.)"
+"414406\t4474807\tIt's not looking too good is it?\tIt's not lookign too good is it?\t212534311\t1477657551959\t1477657552059\tBKSP\t8"
+"414406\t4474807\tIt's not looking too good is it?\tIt's not lookign too good is it?\t212534312\t1477657552370\t1477657552480\t)"
+"414406\t4474807\tIt's not looking too good is it?\tIt's not lookign too good is it?\t212534314\t1477657552240\t1477657552671\tSHIFT\t16"
+"417498\t4504613\tI'm still in FW.\tIm still in FW.)"
+"42850\t466120\tI'm looking forward to the long weekend!\tIm looking forward to the long weekend!)"
+"435779\t4697869\tDon't they have some conflicts here?\tdon't they have some conflicts here?\t223090869\t1478011718985\t1478011719060\tBKSP\t8"
+"435779\t4697869\tDon't they have some conflicts here?\tdon't they have some conflicts here?\t223090870\t1478011722461\t1478011722647\t/\t191"
+"435779\t4697869\tDon't they have some conflicts here?\tdon't they have some conflicts here?\t223090872\t1478011723498\t1478011723580\tBKSP\t8"
+"435779\t4697869\tDon't they have some conflicts here?\tdon't they have some conflicts here?\t223090875\t1478011724464\t1478011724657\t?\t191"
+"435779\t4697869\tDon't they have some conflicts here?\tdon't they have some conflicts here?\t223090918\t1478011724280\t1478011724709\tSHIFT\t16"
+"435779\t4697869\tDon't they have some conflicts here?\tdon't they have some conflicts here?\t223090923\t1478011724909\t1478011724994\tSHIFT\t16"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091034\t1478011729414\t1478011729608\tSHIFT\t16"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091038\t1478011729511\t1478011729712\tI\t73"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091040\t1478011729692\t1478011729862\t \t32"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091041\t1478011729895\t1478011730065\td\t68"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091043\t1478011730000\t1478011730162\to\t79"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091045\t1478011730188\t1478011730351\tn\t78"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091078\t1478011730798\t1478011730984\t'\t222"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091080\t1478011731059\t1478011731194\tt\t84"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091082\t1478011731175\t1478011731301\t \t32"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091084\t1478011731414\t1478011731559\th\t72"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091086\t1478011731634\t1478011731836\ta\t65"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091118\t1478011731932\t1478011732064\tv\t86"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091122\t1478011732134\t1478011732264\te\t69"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091126\t1478011732204\t1478011732381\t \t32"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091132\t1478011732707\t1478011732918\tSHIFT\t16"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091136\t1478011732819\t1478011732927\tL\t76"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091140\t1478011733026\t1478011733157\to\t79"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091170\t1478011733219\t1478011733337\ts\t83"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091171\t1478011733440\t1478011733559\tt\t84"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091172\t1478011733547\t1478011733697\t \t32"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091173\t1478011734475\t1478011734635\tC\t67"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091174\t1478011733886\t1478011734644\tSHIFT\t16"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091175\t1478011735110\t1478011735213\tr\t82"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091192\t1478011735353\t1478011735414\te\t69"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091194\t1478011735488\t1478011735596\te\t69"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091196\t1478011735662\t1478011735872\tk\t75"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091198\t1478011735850\t1478011735978\t \t32"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091200\t1478011736147\t1478011736265\ty\t89"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091213\t1478011736405\t1478011736557\te\t69"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091215\t1478011736860\t1478011736956\tt\t84"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091216\t1478011737160\t1478011737322\t \t32"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091218\t1478011737422\t1478011737620\t-\t189"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091220\t1478011737656\t1478011737854\t \t32"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091254\t1478011738154\t1478011738279\th\t72"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091256\t1478011738359\t1478011738483\to\t79"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091260\t1478011738725\t1478011738868\te\t69"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091263\t1478011738979\t1478011739107\tf\t70"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091267\t1478011739205\t1478011739307\tu\t85"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091285\t1478011739432\t1478011739508\tl\t76"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091287\t1478011739548\t1478011739667\tl\t76"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091289\t1478011739760\t1478011739885\ty\t89"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091291\t1478011739860\t1478011739992\t \t32"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091293\t1478011740125\t1478011740243\tb\t66"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091454\t1478011740358\t1478011740459\te\t69"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091456\t1478011740862\t1478011740925\tBKSP\t8"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091457\t1478011741013\t1478011741083\tBKSP\t8"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091458\t1478011741160\t1478011741226\tBKSP\t8"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091459\t1478011741316\t1478011741373\tBKSP\t8"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091461\t1478011741462\t1478011741511\tBKSP\t8"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091464\t1478011741582\t1478011741638\tBKSP\t8"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091468\t1478011741719\t1478011741785\tBKSP\t8"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091472\t1478011742093\t1478011742287\tBKSP\t8"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091476\t1478011742376\t1478011742472\tBKSP\t8"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091480\t1478011743287\t1478011743314\t[\t219"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091483\t1478011743264\t1478011743331\tp\t80"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091485\t1478011744014\t1478011744080\tBKSP\t8"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091486\t1478011744514\t1478011744670\te\t69"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091487\t1478011744740\t1478011744911\tf\t70"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091496\t1478011744936\t1478011745038\tu\t85"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091500\t1478011745161\t1478011745233\tl\t76"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091504\t1478011745304\t1478011745399\tl\t76"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091508\t1478011745506\t1478011745600\ty\t89"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091511\t1478011745654\t1478011745796\t \t32"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091551\t1478011746827\t1478011746931\tb\t66"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091553\t1478011747025\t1478011747098\te\t69"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091554\t1478011747176\t1478011747356\tf\t70"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091555\t1478011747339\t1478011747479\to\t79"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091564\t1478011747456\t1478011747623\tr\t82"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091566\t1478011747609\t1478011747764\te\t69"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091569\t1478011747710\t1478011747828\t \t32"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091572\t1478011748001\t1478011748101\ty\t89"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091574\t1478011748112\t1478011748231\to\t79"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091575\t1478011748242\t1478011748382\tu\t85"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091594\t1478011748363\t1478011748497\t \t32"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091595\t1478011748746\t1478011748924\tl\t76"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091596\t1478011748905\t1478011749055\te\t69"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091597\t1478011749062\t1478011749217\ta\t65"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091598\t1478011749280\t1478011749388\tv\t86"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091599\t1478011749420\t1478011749557\te\t69"
+"435779\t4697878\tI don't have Lost Creek yet - hopefully before you leave.\tI don't have Lost Creek yet - hopefully before you leave.\t223091616\t1478011749648\t1478011749842\t.\t190"
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091711\t1478011752730\t1478011752948\tSHIFT\t16'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091713\t1478011752885\t1478011753009\tT\t84'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091716\t1478011753192\t1478011753314\th\t72'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091718\t1478011753327\t1478011753480\te\t69'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091720\t1478011753490\t1478011753611\ty\t89'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091722\t1478011753665\t1478011753764\t \t32'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091739\t1478011753967\t1478011754104\th\t72'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091741\t1478011754085\t1478011754200\ta\t65'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091742\t1478011754246\t1478011754368\tv\t86'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091744\t1478011754393\t1478011754542\te\t69'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091753\t1478011754526\t1478011754618\t \t32'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091754\t1478011754718\t1478011754834\tn\t78'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091755\t1478011754841\t1478011754988\to\t79'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091756\t1478011755036\t1478011755117\tt\t84'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091757\t1478011755172\t1478011755222\t \t32'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091758\t1478011755308\t1478011755440\ti\t73'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091789\t1478011755520\t1478011755605\ts\t83'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091790\t1478011755696\t1478011755800\ts\t83'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091791\t1478011755888\t1478011756026\tu\t85'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091792\t1478011756109\t1478011756222\tr\t82'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091793\t1478011756276\t1478011756362\te\t69'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091850\t1478011756473\t1478011756590\td\t68'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091852\t1478011757244\t1478011757354\t \t32'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091854\t1478011757686\t1478011757757\tBKSP\t8'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091856\t1478011757857\t1478011757922\tBKSP\t8'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091858\t1478011758000\t1478011758066\tBKSP\t8'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091859\t1478011758122\t1478011758215\tBKSP\t8'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091860\t1478011758450\t1478011758572\tu\t85'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091861\t1478011758834\t1478011758924\tBKSP\t8'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091862\t1478011759039\t1478011759140\te\t69'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091863\t1478011759479\t1478011759537\tBKSP\t8'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091864\t1478011760248\t1478011760336\te\t69'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091900\t1478011760477\t1478011760615\td\t68'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091903\t1478011760578\t1478011760705\t \t32'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091907\t1478011761086\t1478011761230\ta\t65'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091912\t1478011761241\t1478011761428\tn\t78'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091955\t1478011761383\t1478011761523\t \t32'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091957\t1478011761770\t1478011761904\tc\t67'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091959\t1478011762147\t1478011762226\tBKSP\t8'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091960\t1478011762711\t1478011762858\to\t79'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091961\t1478011762927\t1478011763050\tr\t82'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091962\t1478011763277\t1478011763393\td\t68'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223091963\t1478011763483\t1478011763617\te\t69'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223092013\t1478011763655\t1478011763799\tr\t82'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223092016\t1478011763809\t1478011763961\t \t32'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223092020\t1478011764091\t1478011764218\ty\t89'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223092023\t1478011764224\t1478011764351\te\t69'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223092027\t1478011764880\t1478011765064\tt\t84'
+'435779\t4697893\tThey have not issued an order yet.\tThey have not issued an order yet.\t223092046\t1478011765181\t1478011765385\t.\t190'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092220\t1478011770533\t1478011770698\tSHIFT\t16'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092222\t1478011770650\t1478011770779\tT\t84'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092223\t1478011771329\t1478011771411\th\t72'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092225\t1478011771421\t1478011771533\te\t69'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092228\t1478011771568\t1478011771738\t \t32'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092230\t1478011772179\t1478011772272\ti\t73'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092249\t1478011772330\t1478011772470\tn\t78'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092250\t1478011772571\t1478011772731\tf\t70'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092251\t1478011772719\t1478011772894\to\t79'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092252\t1478011772900\t1478011773049\tr\t82'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092253\t1478011773103\t1478011773268\tm\t77'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092280\t1478011773256\t1478011773412\ta\t65'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092283\t1478011773400\t1478011773532\tl\t76'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092288\t1478011773521\t1478011773636\t \t32'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092290\t1478011773787\t1478011773899\tc\t67'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092293\t1478011773842\t1478011773984\to\t79'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092295\t1478011774007\t1478011774136\ts\t83'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092321\t1478011774230\t1478011774352\tt\t84'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092323\t1478011774569\t1478011774737\ts\t83'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092325\t1478011774793\t1478011774908\t \t32'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092329\t1478011775054\t1478011775166\th\t72'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092357\t1478011775075\t1478011775202\ta\t65'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092359\t1478011775248\t1478011775348\tv\t86'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092361\t1478011775384\t1478011775538\te\t69'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092363\t1478011775556\t1478011775710\t \t32'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092365\t1478011775787\t1478011775969\tt\t84'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092408\t1478011775880\t1478011776056\to\t79'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092411\t1478011776024\t1478011776145\t \t32'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092413\t1478011776358\t1478011776500\td\t68'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092415\t1478011776487\t1478011776601\ti\t73'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092418\t1478011776632\t1478011776807\ts\t83'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092422\t1478011777196\t1478011777266\ta\t65'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092446\t1478011777634\t1478011777700\tp\t80'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092448\t1478011777786\t1478011777892\tp\t80'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092450\t1478011777916\t1478011778050\te\t69'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092452\t1478011778076\t1478011778252\tr\t82'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092456\t1478011778338\t1478011778465\ta\t65'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092518\t1478011778648\t1478011778702\tBKSP\t8'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092520\t1478011778784\t1478011778920\tBKSP\t8'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092523\t1478011778960\t1478011779140\ta\t65'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092525\t1478011779277\t1478011779461\tr\t82'
+'435779\t4697900\tThe informal costs have to disappear.\tThe informal costs have to disappear.\t223092527\t1478011779763\t1478011779927\t.\t190'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092634\t1478011782938\t1478011783116\tSHIFT\t16'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092636\t1478011783021\t1478011783165\tI\t73'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092639\t1478011783188\t1478011783268\t \t32'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092642\t1478011783428\t1478011783571\tw\t87'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092643\t1478011783690\t1478011783785\ta\t65'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092644\t1478011783855\t1478011783998\t \t32'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092680\t1478011784349\t1478011784428\tBKSP\t8'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092681\t1478011784522\t1478011784681\ts\t83'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092684\t1478011784687\t1478011784808\t \t32'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092687\t1478011784994\t1478011785148\tg\t71'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092689\t1478011785117\t1478011785261\to\t79'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092692\t1478011785307\t1478011785449\ti\t73'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092710\t1478011785477\t1478011785644\tn\t78'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092712\t1478011785611\t1478011785773\tg\t71'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092716\t1478011785744\t1478011785839\t \t32'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092720\t1478011786010\t1478011786162\tt\t84'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092775\t1478011786109\t1478011786268\to\t79'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092778\t1478011786233\t1478011786348\t \t32'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092783\t1478011786721\t1478011786867\tc\t67'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092787\t1478011786892\t1478011787077\ta\t65'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092788\t1478011787054\t1478011787130\tl\t76'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092789\t1478011787204\t1478011787317\tl\t76'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092791\t1478011787363\t1478011787462\t \t32'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092796\t1478011787600\t1478011787706\ty\t89'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092799\t1478011787694\t1478011787808\to\t79'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092802\t1478011787825\t1478011787968\tu\t85'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092805\t1478011788010\t1478011788157\t \t32'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092837\t1478011788475\t1478011788609\tb\t66'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092838\t1478011788633\t1478011788758\tu\t85'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092839\t1478011788785\t1478011788910\tt\t84'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092840\t1478011788928\t1478011789043\t \t32'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092841\t1478011789172\t1478011789348\tSHIFT\t16'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092870\t1478011789270\t1478011789427\tI\t73'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092872\t1478011789412\t1478011789509\t \t32'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092877\t1478011789697\t1478011789826\th\t72'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092880\t1478011789767\t1478011789890\ta\t65'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092883\t1478011789990\t1478011790100\tt\t84'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092885\t1478011790177\t1478011790293\te\t69'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092897\t1478011790323\t1478011790430\t \t32'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092900\t1478011790580\t1478011790707\tt\t84'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092902\t1478011790674\t1478011790846\to\t79'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092904\t1478011790789\t1478011790922\t \t32'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092906\t1478011791008\t1478011791152\tb\t66'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092925\t1478011791162\t1478011791348\to\t79'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092928\t1478011791357\t1478011791501\tt\t84'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092931\t1478011791554\t1478011791675\th\t72'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092934\t1478011791684\t1478011791888\te\t69'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092939\t1478011791901\t1478011792109\tr\t82'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092972\t1478011792166\t1478011792301\t \t32'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092975\t1478011793064\t1478011793153\th\t89'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223092977\t1478011793220\t1478011793337\to\t79'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093068\t1478011793326\t1478011793456\tu\t85'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093070\t1478011793527\t1478011793670\tr\t82'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093072\t1478011794048\t1478011794120\tBKSP\t8'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093074\t1478011794220\t1478011794294\tBKSP\t8'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093075\t1478011794363\t1478011794425\tBKSP\t8'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093076\t1478011794842\t1478011794930\tBKSP\t8'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093077\t1478011795416\t1478011795521\to\t79'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093078\t1478011795557\t1478011795665\tu\t85'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093079\t1478011795757\t1478011795882\tr\t82'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093080\t1478011795918\t1478011796015\t \t32'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093118\t1478011796351\t1478011796458\th\t72'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093119\t1478011796740\t1478011796837\to\t79'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093120\t1478011796938\t1478011797034\tl\t76'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093121\t1478011797162\t1478011797281\ti\t73'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093123\t1478011797335\t1478011797500\td\t68'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093142\t1478011797514\t1478011797722\ta\t65'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093144\t1478011797730\t1478011797814\ty\t89'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093147\t1478011797970\t1478011798143\t.\t190'
+'435779\t4697911\tI was going to call you but I hate to bother your holiday.\tI was going to call you but I hate to bother your holiday. \t223093150\t1478011798187\t1478011798287\t \t32'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093321\t1478011801006\t1478011801170\tSHIFT\t16'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093322\t1478011801144\t1478011801293\tD\t68'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093323\t1478011801364\t1478011801536\to\t79'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093324\t1478011801849\t1478011802025\t \t32'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093325\t1478011802427\t1478011802539\tn\t78'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093327\t1478011802549\t1478011802739\to\t79'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093373\t1478011802724\t1478011802860\tt\t84'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093376\t1478011802820\t1478011802924\t \t32'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093379\t1478011803100\t1478011803192\ts\t83'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093381\t1478011803527\t1478011803642\te\t69'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093383\t1478011803677\t1478011803790\tn\t78'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093384\t1478011803803\t1478011803964\td\t68'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093421\t1478011803974\t1478011804082\t \t32'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093424\t1478011804529\t1478011804674\ts\t83'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093427\t1478011804732\t1478011804873\tm\t77'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093429\t1478011804850\t1478011805006\ta\t65'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093430\t1478011805043\t1478011805106\tl\t76'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093479\t1478011805180\t1478011805263\tl\t76'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093482\t1478011805391\t1478011805544\t,\t188'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093487\t1478011805565\t1478011805668\t \t32'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093491\t1478011805815\t1478011805899\tu\t85'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093495\t1478011806008\t1478011806125\tn\t78'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093551\t1478011806189\t1478011806382\ts\t83'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093552\t1478011806657\t1478011806759\tu\t85'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093553\t1478011806804\t1478011806971\ts\t83'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093554\t1478011807388\t1478011807539\tp\t80'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093555\t1478011807579\t1478011807686\te\t69'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093597\t1478011807814\t1478011807934\tc\t67'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093599\t1478011808045\t1478011808178\tt\t84'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093602\t1478011808166\t1478011808308\ti\t73'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093605\t1478011808346\t1478011808504\tn\t78'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093609\t1478011808545\t1478011808727\tg\t71'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093698\t1478011808809\t1478011808920\t \t32'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093701\t1478011809406\t1478011809632\tSHIFT\t16'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093706\t1478011809506\t1478011809685\tC\t67'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093708\t1478011810073\t1478011810137\tBKSP\t8'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093713\t1478011810616\t1478011810788\tc\t67'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093716\t1478011810776\t1478011810863\th\t72'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093717\t1478011810923\t1478011811026\ti\t73'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093790\t1478011811641\t1478011811789\tl\t76'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093794\t1478011811999\t1478011812189\td\t68'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093798\t1478011812513\t1478011812648\tr\t82'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093801\t1478011812665\t1478011812820\te\t69'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093802\t1478011812861\t1478011813056\tn\t78'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093817\t1478011813009\t1478011813122\t \t32'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093822\t1478011813218\t1478011813354\tt\t84'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093830\t1478011813260\t1478011813417\to\t79'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093836\t1478011813382\t1478011813553\t \t32'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093844\t1478011813608\t1478011813770\tc\t67'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093944\t1478011813732\t1478011813832\th\t72'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093948\t1478011813948\t1478011814087\te\t69'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093951\t1478011814263\t1478011814323\tBKSP\t8'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093956\t1478011815074\t1478011815199\te\t69'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093960\t1478011815345\t1478011815513\tc\t67'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093964\t1478011815636\t1478011815751\th\t72'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093968\t1478011816078\t1478011816133\tBKSP\t8'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093972\t1478011816626\t1478011816715\tk\t75'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223093998\t1478011816762\t1478011816857\t \t32'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223094001\t1478011816920\t1478011817081\to\t79'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223094004\t1478011817089\t1478011817227\tn\t78'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223094007\t1478011817233\t1478011817365\t \t32'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223094009\t1478011817703\t1478011817804\tm\t77'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223094032\t1478011817925\t1478011818017\ty\t89'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223094034\t1478011818077\t1478011818202\t \t32'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223094036\t1478011818311\t1478011818453\tp\t80'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223094040\t1478011818488\t1478011818624\tr\t82'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223094069\t1478011818608\t1478011818752\to\t79'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223094070\t1478011818802\t1478011818913\tg\t71'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223094071\t1478011819021\t1478011819149\tr\t82'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223094072\t1478011819163\t1478011819312\te\t69'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223094073\t1478011819433\t1478011819495\ts\t83'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223094074\t1478011819594\t1478011819705\ts\t83'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223094095\t1478011819749\t1478011819925\t.\t190'
+'435779\t4697926\tDo not send small, unsuspecting children to check on my progress.\tDo not send small, unsuspecting children to check on my progress. \t223094099\t1478011819936\t1478011820016\t \t32'
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094230\t1478011822648\t1478011822762\tI\t73"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094233\t1478011822553\t1478011822786\tSHIFT\t16"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094236\t1478011822952\t1478011823095\t'\t222"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094239\t1478011823478\t1478011823647\tm\t77"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094243\t1478011823653\t1478011823755\t \t32"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094249\t1478011823855\t1478011823964\ts\t83"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094278\t1478011824049\t1478011824190\tt\t84"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094281\t1478011824212\t1478011824289\ti\t73"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094285\t1478011824449\t1478011824507\tl\t76"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094289\t1478011824579\t1478011824704\tl\t76"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094292\t1478011824714\t1478011824879\t \t32"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094323\t1478011824952\t1478011825098\ti\t73"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094325\t1478011825106\t1478011825267\tn\t78"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094327\t1478011825242\t1478011825382\t \t32"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094329\t1478011825492\t1478011825820\tSHIFT\t16"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094331\t1478011825721\t1478011825887\tD\t68"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094333\t1478011825906\t1478011826078\ta\t65"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094359\t1478011826086\t1478011826150\tl\t76"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094361\t1478011826206\t1478011826336\tl\t76"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094363\t1478011826381\t1478011826488\ta\t65"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094365\t1478011826578\t1478011826699\ts\t83"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223094367\t1478011827199\t1478011827331\t)"
+"435779\t4697943\tI'm still in Dallas!\tI'm still in Dallas!\t223095072\t1478011827005\t1478011827377\tSHIFT\t16"
+"442463\t4764779\tI'll find someone to do it.\tIll find someone to do it. )"
+"44754\t489177\tI'll be up to nine or 10 by Saturday.\tIll be up to nine or 10 by Saturday.)"
+"449048\t4837613\tBob, I'll take Oakland as my winner this week.\tBob, Ill take Oakland as my winner this week.)"
+"47582\t519034\tOkay I'll go for a ticket.\tokay ill go for a ticket.)"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270200\t1478602703447\t1478602703555\tBKSP\t8"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270203\t1478602703836\t1478602703909\tBKSP\t8"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270208\t1478602705734\t1478602705926\t'\t222"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270213\t1478602706633\t1478602706734\tBKSP\t8"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270217\t1478602707550\t1478602707686\t \t32"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270324\t1478602708879\t1478602709007\ts\t83"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270328\t1478602709226\t1478602709357\tt\t84"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270333\t1478602710382\t1478602710558\ti\t73"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270340\t1478602710683\t1478602710861\to\t79"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270342\t1478602710955\t1478602711129\t \t32"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270738\t1478602712975\t1478602713027\tBKSP\t8"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270743\t1478602713308\t1478602713360\tBKSP\t8"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270746\t1478602714098\t1478602714256\tBKSP\t8"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270750\t1478602715010\t1478602715144\ti\t73"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270752\t1478602715961\t1478602716082\tBKSP\t8"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270755\t1478602716379\t1478602716500\to\t79"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270757\t1478602716711\t1478602716786\to\t79"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270759\t1478602716688\t1478602716818\tp\t80"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270763\t1478602717823\t1478602717955\tBKSP\t8"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270765\t1478602718880\t1478602719039\t \t32"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270864\t1478602719794\t1478602719912\tu\t85"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270868\t1478602720588\t1478602720745\ts\t83"
+"481615\t5187636\tYou can't destroy us, and you can't stop us.\tYou can't destroy us, and you can' stop us.\t246270875\t1478602720917\t1478602721095\t.\t190"
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271160\t1478602724298\t1478602724581\tSHIFT\t16'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271162\t1478602724491\t1478602724644\tI\t73'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271164\t1478602724987\t1478602725129\t \t32'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271165\t1478602725929\t1478602726082\ta\t65'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271166\t1478602726523\t1478602726606\tg\t71'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271169\t1478602727879\t1478602727991\tr\t82'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271225\t1478602728174\t1478602728353\te\t69'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271227\t1478602728432\t1478602728606\te\t69'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271230\t1478602728731\t1478602728874\t \t32'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271234\t1478602729077\t1478602729225\ts\t83'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271238\t1478602729684\t1478602729780\ti\t73'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271356\t1478602730084\t1478602730213\tn\t78'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271361\t1478602730510\t1478602730586\tc\t67'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271365\t1478602730836\t1478602731000\te\t69'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271371\t1478602731156\t1478602731285\t \t32'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271374\t1478602732085\t1478602732220\ti\t73'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271584\t1478602732392\t1478602732506\t \t32'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271586\t1478602732759\t1478602732859\tz\t65'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271590\t1478602734320\t1478602734384\tBKSP\t8'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271593\t1478602734540\t1478602734600\tBKSP\t8'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271597\t1478602734725\t1478602734831\tBKSP\t8'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271599\t1478602734969\t1478602735083\tBKSP\t8'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271600\t1478602735837\t1478602737141\tSHIFT\t16'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271601\t1478602737047\t1478602737173\tI\t73'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271603\t1478602737360\t1478602737505\t \t32'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271648\t1478602737819\t1478602737910\ta\t65'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271651\t1478602738391\t1478602738509\tm\t77'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271656\t1478602738619\t1478602738712\t \t32'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271658\t1478602738938\t1478602739125\ta\t65'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271661\t1478602739660\t1478602739798\tt\t84'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271731\t1478602739920\t1478602740080\t \t32'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271732\t1478602740739\t1478602740852\tt\t84'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271733\t1478602741009\t1478602741136\th\t72'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271735\t1478602741245\t1478602741511\te\t69'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271817\t1478602741479\t1478602741636\t \t32'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271822\t1478602742344\t1478602742426\tb\t66'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271825\t1478602742660\t1478602742806\ta\t65'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271829\t1478602743181\t1478602743293\tn\t78'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271831\t1478602743938\t1478602744061\tk\t75'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246271834\t1478602744124\t1478602744278\t \t32'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246272017\t1478602745630\t1478602745767\tr\t82'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246272021\t1478602746174\t1478602746272\ti\t73'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246272025\t1478602746718\t1478602746823\tg\t71'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246272030\t1478602748096\t1478602748210\th\t72'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246272034\t1478602748368\t1478602748525\tt\t84'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246272118\t1478602748741\t1478602748878\t \t32'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246272120\t1478602749633\t1478602749750\tn\t78'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246272123\t1478602750206\t1478602750349\to\t79'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246272127\t1478602750474\t1478602750618\tw\t87'
+'481615\t5187686\tI agree since I am at the bank right now.\tI agree since I am at the bank right now.\t246272130\t1478602751261\t1478602751403\t.\t190'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272401\t1478602755022\t1478602755323\tSHIFT\t16'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272403\t1478602755270\t1478602755401\tL\t76'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272405\t1478602755807\t1478602755921\te\t69'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272408\t1478602757055\t1478602757175\tt\t84'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272410\t1478602757394\t1478602757525\t \t32'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272413\t1478602757967\t1478602758094\tm\t77'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272465\t1478602758256\t1478602758426\te\t69'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272469\t1478602758499\t1478602758644\t \t32'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272473\t1478602759258\t1478602759352\tk\t75'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272477\t1478602759902\t1478602760019\tn\t78'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272480\t1478602760222\t1478602760368\to\t79'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272573\t1478602760558\t1478602760718\tw\t87'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272577\t1478602760796\t1478602760936\t \t32'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272582\t1478602761296\t1478602761438\ti\t73'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272587\t1478602762255\t1478602762424\tf\t70'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272589\t1478602762517\t1478602762658\t \t32'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272709\t1478602763257\t1478602763381\ty\t89'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272711\t1478602763584\t1478602763730\to\t79'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272715\t1478602763902\t1478602764047\tu\t85'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272718\t1478602764911\t1478602765066\t \t32'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272721\t1478602765745\t1478602765841\th\t72'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272794\t1478602766013\t1478602766156\ta\t65'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272798\t1478602766660\t1478602766776\tv\t86'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272802\t1478602767026\t1478602767190\te\t69'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272806\t1478602767330\t1478602767475\t \t32'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272810\t1478602768044\t1478602768181\ta\t65'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272901\t1478602768376\t1478602768514\tn\t78'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272903\t1478602768764\t1478602768884\ty\t89'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272905\t1478602769019\t1478602769152\t \t32'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272906\t1478602770014\t1478602770090\tq\t81'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246272907\t1478602770324\t1478602770471\tu\t85'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246273134\t1478602771605\t1478602771727\te\t69'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246273136\t1478602771904\t1478602772075\ts\t83'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246273138\t1478602774122\t1478602774237\tt\t84'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246273141\t1478602774534\t1478602774686\ti\t73'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246273144\t1478602774858\t1478602775035\to\t79'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246273229\t1478602775241\t1478602775437\tn\t78'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246273230\t1478602775640\t1478602775789\ts\t83'
+'481615\t5187713\tLet me know if you have any questions.\tLet me know if you have any questions.\t246273231\t1478602776652\t1478602776794\t.\t190'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273400\t1478602779922\t1478602780087\to\t79'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273402\t1478602780228\t1478602780357\tu\t85'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273404\t1478602780592\t1478602780709\tt\t84'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273406\t1478602780819\t1478602780968\t \t32'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273408\t1478602781665\t1478602781795\to\t79'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273481\t1478602781968\t1478602782112\tf\t70'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273482\t1478602782190\t1478602782330\t \t32'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273484\t1478602782549\t1478602782728\to\t79'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273486\t1478602783664\t1478602783753\tf\t70'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273490\t1478602783909\t1478602783958\tf\t70'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273599\t1478602784395\t1478602784507\ti\t73'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273602\t1478602784882\t1478602785007\tc\t67'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273605\t1478602785179\t1478602785337\te\t69'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273607\t1478602785493\t1478602785609\t \t32'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273609\t1478602786113\t1478602786228\tb\t66'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273691\t1478602786447\t1478602786562\tu\t85'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273692\t1478602786859\t1478602787000\tt\t84'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273694\t1478602787125\t1478602787248\t \t32'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273696\t1478602787892\t1478602788002\th\t72'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273699\t1478602788143\t1478602788283\ta\t65'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273787\t1478602788652\t1478602788707\tv\t86'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273789\t1478602789367\t1478602789505\te\t69'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273792\t1478602790243\t1478602790359\t \t32'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273795\t1478602790973\t1478602791094\tp\t80'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273798\t1478602791250\t1478602791379\te\t69'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273899\t1478602792403\t1478602792516\to\t79'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273900\t1478602792641\t1478602792783\tp\t80'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273901\t1478602793240\t1478602793384\tl\t76'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273902\t1478602794231\t1478602794419\te\t69'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246273903\t1478602794466\t1478602794622\t \t32'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274033\t1478602795188\t1478602795310\tw\t87'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274035\t1478602795528\t1478602795659\to\t79'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274037\t1478602796304\t1478602796398\tr\t82'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274040\t1478602796856\t1478602796950\tk\t75'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274042\t1478602797547\t1478602797667\ti\t73'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274096\t1478602797786\t1478602797949\tn\t78'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274098\t1478602798483\t1478602798605\tg\t71'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274103\t1478602798714\t1478602798885\t \t32'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274109\t1478602799122\t1478602799240\to\t79'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274115\t1478602799381\t1478602799523\tn\t78'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274207\t1478602799595\t1478602799725\t \t32'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274212\t1478602800555\t1478602800694\ti\t73'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274218\t1478602800819\t1478602800977\tn\t78'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274224\t1478602801480\t1478602801567\tg\t71'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274230\t1478602802824\t1478602802968\tBKSP\t8'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274233\t1478602803093\t1478602803204\tf\t70'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274274\t1478602803532\t1478602803670\to\t79'
+'481615\t5187728\tOut of office but have people working on info.\tout of office but have people working on info.\t246274276\t1478602804362\t1478602804506\t.\t190'
+"481615\t5187752\tI'll take up my problem with weak Scott H.\tI' ll take up my problem with weak Scott H.\t246274602\t1478602808433\t1478602808725\tSHIFT\t16"
+"481615\t5187752\tI'll take up my problem with weak Scott H.\tI' ll take up my problem with weak Scott H.\t246274605\t1478602808641\t1478602808788\tI\t73"
+"481615\t5187752\tI'll take up my problem with weak Scott H.\tI' ll take up my problem with weak Scott H.\t246274609\t1478602808944\t1478602809073\t \t32"
+"481615\t5187752\tI'll take up my problem with weak Scott H.\tI' ll take up my problem with weak Scott H.\t246274616\t1478602810346\t1478602810499\t\\\t220"
+"481615\t5187752\tI'll take up my problem with weak Scott H.\tI' ll take up my problem with weak Scott H.\t246274623\t1478602810967\t1478602811659\tSHIFT\t16"
+"481615\t5187752\tI'll take up my problem with weak Scott H.\tI' ll take up my problem with weak Scott H.\t246274628\t1478602812570\t1478602812687\tBKSP\t8"
+"481615\t5187752\tI'll take up my problem with weak Scott H.\tI' ll take up my problem with weak Scott H.\t246274633\t1478602812937\t1478602813038\tBKSP\t8"
+"481615\t5187752\tI'll take up my problem with weak Scott H.\tI' ll take up my problem with weak Scott H.\t246274636\t1478602815871\t1478602816180\t)"
+"481615\t5187752\tI'll take up my problem with weak Scott H.\tI' ll take up my problem with weak Scott H.\t246275102\t1478602815554\t1478602816259\tSHIFT\t16"
+'493327\t5309028\tThe results were expected back Tuesday.\tThe results were expected back Tuesday.)'
+"495226\t5329139\tIt's too involved out here on Saturday with everybody qualifying.\tIts too involved out here in saturday with everybody qualifying.)"
+"495226\t5329327\tI have an AM doctor's appointment.\tI have an AM doctors appointment.)"
+"511079\t5501732\tI'm on a plane.\tIm on a plane.)"
+'59468\t651679\tWas wondering if you and Natalie connected?\tWas wondering if you and Natalie connected?\t30993325\t1472695278847\t1472695278913\tBKSP\t8'
+'59468\t651679\tWas wondering if you and Natalie connected?\tWas wondering if you and Natalie connected?\t30993327\t1472695279632\t1472695279785\t?\t191'
+'59468\t651679\tWas wondering if you and Natalie connected?\tWas wondering if you and Natalie connected?\t30993329\t1472695279585\t1472695279816\tSHIFT\t16'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993441\t1472695283195\t1472695283319\tSHIFT\t16'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993445\t1472695283279\t1472695283356\tC\t67'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993447\t1472695283427\t1472695283591\to\t79'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993451\t1472695283542\t1472695283671\tu\t85'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993456\t1472695283733\t1472695283806\td\t68'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993552\t1472695283767\t1472695283889\tl\t76'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993555\t1472695284303\t1472695284371\tBKSP\t8'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993558\t1472695284431\t1472695284531\tBKSP\t8'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993564\t1472695284633\t1472695284735\tl\t76'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993566\t1472695284750\t1472695284863\td\t68'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993574\t1472695284837\t1472695284977\t \t32'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993578\t1472695285135\t1472695285251\to\t79'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993582\t1472695285487\t1472695285554\tBKSP\t8'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993585\t1472695285666\t1472695285784\ty\t89'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993597\t1472695285825\t1472695285999\to\t79'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993601\t1472695285950\t1472695286119\tu\t85'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993606\t1472695286066\t1472695286235\t \t32'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993612\t1472695286282\t1472695286404\tp\t80'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993617\t1472695286472\t1472695286583\tl\t76'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993647\t1472695286619\t1472695286704\te\t69'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993649\t1472695286867\t1472695286966\ta\t65'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993654\t1472695287069\t1472695287150\ts\t83'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993659\t1472695287248\t1472695287350\te\t69'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993662\t1472695287415\t1472695287549\t \t32'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993679\t1472695287648\t1472695287807\tl\t76'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993683\t1472695287785\t1472695287942\te\t69'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993687\t1472695287989\t1472695288067\tt\t84'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993691\t1472695288083\t1472695288248\t \t32'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993695\t1472695288380\t1472695288528\tm\t77'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993739\t1472695288488\t1472695288597\te\t69'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993742\t1472695288860\t1472695289003\t \t32'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993745\t1472695289506\t1472695289633\tk\t75'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993749\t1472695289582\t1472695289759\tn\t78'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993753\t1472695289690\t1472695289855\to\t79'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993790\t1472695289774\t1472695289866\tw\t87'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993792\t1472695289881\t1472695290033\t \t32'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993795\t1472695290179\t1472695290232\tw\t87'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993799\t1472695290455\t1472695290559\tBKSP\t8'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993802\t1472695290531\t1472695290654\ta\t65'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993809\t1472695290704\t1472695290793\ts\t83'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993816\t1472695290808\t1472695290943\t \t32'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993838\t1472695290983\t1472695291143\ts\t83'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993840\t1472695291158\t1472695291297\to\t79'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993842\t1472695291400\t1472695291527\to\t79'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993845\t1472695291602\t1472695291687\tn\t78'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993850\t1472695291749\t1472695291887\t \t32'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993882\t1472695291857\t1472695291945\ta\t65'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993885\t1472695292026\t1472695292127\ts\t83'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993887\t1472695292158\t1472695292295\t \t32'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993889\t1472695292319\t1472695292403\tp\t80'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993891\t1472695292504\t1472695292578\to\t79'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993893\t1472695292719\t1472695292804\ts\t83'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993914\t1472695292870\t1472695293014\ts\t83'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993917\t1472695292991\t1472695293061\ti\t73'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993922\t1472695293235\t1472695293335\tb\t66'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993925\t1472695293399\t1472695293529\tl\t76'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993983\t1472695293479\t1472695293546\te\t69'
+'59468\t651691\tCould you please let me know as soon as possible.\tCould you please let me know as soon as possible.\t30993989\t1472695293918\t1472695294019\t.\t190'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994125\t1472695296404\t1472695296511\tSHIFT\t16'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994126\t1472695296471\t1472695296558\tT\t84'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994128\t1472695296574\t1472695296655\th\t72'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994131\t1472695296615\t1472695296759\ta\t65'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994134\t1472695296727\t1472695296838\tt\t84'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994152\t1472695296806\t1472695296969\t \t32'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994154\t1472695297134\t1472695297207\tw\t87'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994156\t1472695297223\t1472695297389\to\t79'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994159\t1472695297306\t1472695297456\tu\t85'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994162\t1472695297479\t1472695297590\tl\t76'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994192\t1472695297523\t1472695297679\td\t68'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994195\t1472695297625\t1472695297811\t \t32'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994196\t1472695297925\t1472695298031\tb\t66'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994197\t1472695298066\t1472695298138\te\t69'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994198\t1472695298171\t1472695298288\t \t32'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994199\t1472695298496\t1472695298571\tg\t71'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994234\t1472695298674\t1472695298768\tr\t82'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994239\t1472695298799\t1472695298915\te\t69'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994242\t1472695298931\t1472695299055\ta\t65'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994248\t1472695299034\t1472695299199\tt\t84'
+'59468\t651701\tThat would be great.\tThat would be great.\t30994256\t1472695299404\t1472695299487\t.\t190'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994396\t1472695301734\t1472695301834\ty\t89'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994398\t1472695302143\t1472695302218\tBKSP\t8'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994401\t1472695302306\t1472695302439\tSHIFT\t16'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994405\t1472695302394\t1472695302544\tY\t89'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994409\t1472695302519\t1472695302726\to\t79'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994412\t1472695302696\t1472695302847\t \t32'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994415\t1472695303154\t1472695303254\tBKSP\t8'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994418\t1472695303316\t1472695303431\tu\t85'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994471\t1472695303519\t1472695303669\t \t32'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994473\t1472695304232\t1472695304298\ts\t83'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994474\t1472695304400\t1472695304535\tn\t78'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994475\t1472695304506\t1472695304626\to\t79'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994476\t1472695304710\t1472695304812\to\t79'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994520\t1472695305170\t1472695305271\tz\t90'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994522\t1472695305355\t1472695305471\te\t69'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994524\t1472695305662\t1472695305762\t,\t188'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994526\t1472695305911\t1472695306027\t \t32'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994528\t1472695306272\t1472695306372\ty\t89'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994573\t1472695306394\t1472695306567\to\t79'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994575\t1472695306519\t1472695306646\tu\t85'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994577\t1472695306626\t1472695306793\t \t32'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994579\t1472695307085\t1472695307129\tl\t76'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994581\t1472695307217\t1472695307334\to\t79'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994729\t1472695307388\t1472695307445\ts\t83'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994730\t1472695307554\t1472695307673\te\t69'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994732\t1472695310523\t1472695310687\tSHIFT\t16'
+'59468\t651706\tYou snooze, you lose!\tYou snooze, you lose!\t30994734\t1472695310570\t1472695310703\t!\t49'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30994922\t1472695314452\t1472695314534\tI\t73'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30994926\t1472695314390\t1472695314550\tSHIFT\t16'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30994933\t1472695314591\t1472695314767\t \t32'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30994937\t1472695314725\t1472695314810\ts\t83'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30994945\t1472695314987\t1472695315111\tp\t80'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30994951\t1472695315208\t1472695315363\to\t79'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30994978\t1472695315496\t1472695315614\tk\t75'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30994983\t1472695315695\t1472695315767\te\t69'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30994985\t1472695315799\t1472695315918\t \t32'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30994990\t1472695315949\t1472695316034\tw\t87'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30994994\t1472695316049\t1472695316149\ti\t73'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995034\t1472695316250\t1472695316365\tt\t84'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995038\t1472695316303\t1472695316471\th\t72'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995042\t1472695316427\t1472695316628\t \t32'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995050\t1472695316853\t1472695317015\tSHIFT\t16'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995055\t1472695316919\t1472695317039\tL\t76'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995059\t1472695317101\t1472695317181\ta\t65'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995102\t1472695317274\t1472695317395\tr\t82'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995104\t1472695317443\t1472695317560\ta\t65'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995106\t1472695317576\t1472695317731\t \t32'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995110\t1472695317931\t1472695318065\tSHIFT\t16'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995113\t1472695318009\t1472695318097\tR\t82'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995117\t1472695318178\t1472695318278\to\t79'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995151\t1472695319084\t1472695319185\tb\t66'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995153\t1472695319232\t1472695319382\ti\t73'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995154\t1472695319328\t1472695319462\tn\t78'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995156\t1472695319511\t1472695319610\ts\t83'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995157\t1472695319626\t1472695319799\to\t79'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995180\t1472695319754\t1472695319869\tn\t78'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995181\t1472695319970\t1472695320102\t \t32'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995182\t1472695320209\t1472695320293\tt\t84'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995183\t1472695320309\t1472695320439\th\t72'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995184\t1472695320409\t1472695320518\ti\t73'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995212\t1472695320503\t1472695320599\ts\t83'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995214\t1472695320576\t1472695320739\t \t32'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995218\t1472695320880\t1472695321030\tm\t77'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995222\t1472695321002\t1472695321122\to\t79'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995226\t1472695321138\t1472695321242\tr\t82'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995229\t1472695321339\t1472695321510\tn\t78'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995330\t1472695321482\t1472695321696\ti\t73'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995333\t1472695321609\t1472695321781\tn\t78'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995338\t1472695321728\t1472695321812\tg\t71'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995341\t1472695322447\t1472695322516\t,\t188'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995344\t1472695322966\t1472695323041\tBKSP\t8'
+'59468\t651717\tI spoke with Lara Robinson this morning.\tI spoke with Lara Robinson this morning.\t30995346\t1472695323204\t1472695323303\t.\t190'
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995576\t1472695326039\t1472695326156\tSHIFT\t16"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995579\t1472695326100\t1472695326187\tI\t73"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995585\t1472695327479\t1472695327601\t'\t222"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995591\t1472695328030\t1472695328117\tl\t76"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995595\t1472695328168\t1472695328293\tl\t76"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995599\t1472695328324\t1472695328463\t \t32"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995627\t1472695328478\t1472695328603\tc\t67"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995633\t1472695328536\t1472695328671\to\t79"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995641\t1472695328700\t1472695328839\tm\t77"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995652\t1472695328800\t1472695328931\te\t69"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995660\t1472695328946\t1472695329085\t \t32"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995703\t1472695329262\t1472695329365\th\t72"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995705\t1472695329383\t1472695329471\ta\t65"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995709\t1472695329942\t1472695330015\tv\t86"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995713\t1472695330078\t1472695330199\te\t69"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995754\t1472695330149\t1472695330300\t \t32"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995757\t1472695330232\t1472695330391\ta\t65"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995758\t1472695330346\t1472695330495\t \t32"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995759\t1472695330580\t1472695330680\tb\t66"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995760\t1472695330799\t1472695330895\te\t69"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995761\t1472695330999\t1472695331166\te\t69"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995775\t1472695331135\t1472695331266\tr\t82"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995777\t1472695331304\t1472695331454\t \t32"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995779\t1472695331504\t1472695331638\tw\t87"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995780\t1472695331619\t1472695331704\ti\t73"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995781\t1472695331766\t1472695331864\tt\t84"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995793\t1472695331791\t1472695331951\th\t72"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995796\t1472695331935\t1472695332066\t \t32"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995801\t1472695332082\t1472695332239\ty\t89"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995808\t1472695332204\t1472695332365\to\t79"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995813\t1472695332304\t1472695332479\tu\t85"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995839\t1472695332439\t1472695332613\t \t32"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995842\t1472695332869\t1472695332987\tg\t71"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995847\t1472695333003\t1472695333079\tu\t85"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995851\t1472695333158\t1472695333260\ty\t89"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995854\t1472695333291\t1472695333393\ts\t83"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995859\t1472695333408\t1472695333560\t \t32"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995873\t1472695333623\t1472695333792\tl\t76"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995875\t1472695333694\t1472695333834\ta\t65"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995878\t1472695333865\t1472695333985\tt\t84"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995880\t1472695334001\t1472695334210\te\t69"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995948\t1472695334124\t1472695334274\tr\t82"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995949\t1472695334625\t1472695334679\t,\t188"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995950\t1472695335100\t1472695335170\tBKSP\t8"
+"59468\t651731\tI'll come have a beer with you guys later.\tI'll come have a beer with you guys later.\t30995951\t1472695335369\t1472695335447\t.\t190"
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996073\t1472695337639\t1472695337702\tSHIFT\t16'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996076\t1472695337679\t1472695337772\tT\t84'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996079\t1472695337798\t1472695337927\th\t72'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996083\t1472695337898\t1472695338023\ti\t73'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996088\t1472695337999\t1472695338098\ts\t83'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996093\t1472695338129\t1472695338242\t \t32'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996154\t1472695338419\t1472695338535\tt\t84'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996155\t1472695338671\t1472695338739\tm\t77'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996158\t1472695338819\t1472695338904\te\t69'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996163\t1472695338966\t1472695339103\t \t32'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996169\t1472695339407\t1472695339472\tBKSP\t8'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996174\t1472695339550\t1472695339621\tBKSP\t8'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996180\t1472695339684\t1472695339786\tBKSP\t8'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996184\t1472695339904\t1472695339986\ti\t73'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996239\t1472695340004\t1472695340171\tm\t77'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996242\t1472695340187\t1472695340271\te\t69'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996245\t1472695340409\t1472695340535\t \t32'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996248\t1472695340750\t1472695340842\tBKSP\t8'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996251\t1472695340977\t1472695341054\t,\t188'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996253\t1472695341402\t1472695341519\t \t32'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996293\t1472695342033\t1472695342153\tN\t16'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996296\t1472695342184\t1472695342285\ti\t73'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996300\t1472695342554\t1472695342671\tg\t71'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996305\t1472695342733\t1472695342862\te\t69'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996309\t1472695342924\t1472695343000\tl\t76'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996365\t1472695343305\t1472695343440\t \t32'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996367\t1472695343948\t1472695344094\tSHIFT\t16'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996371\t1472695344030\t1472695344125\tM\t77'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996373\t1472695344191\t1472695344287\ta\t65'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996375\t1472695344298\t1472695344430\tn\t78'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996376\t1472695344500\t1472695344599\ts\t83'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996399\t1472695344672\t1472695344819\te\t69'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996401\t1472695344882\t1472695344949\tl\t76'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996403\t1472695345035\t1472695345135\tl\t76'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996406\t1472695345251\t1472695345361\t \t32'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996410\t1472695345480\t1472695345564\tw\t87'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996499\t1472695345585\t1472695345694\ti\t73'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996503\t1472695345832\t1472695346081\tl\t76'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996508\t1472695346560\t1472695346685\tl\t76'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996512\t1472695346755\t1472695346877\t \t32'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996516\t1472695346961\t1472695347111\tn\t78'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996587\t1472695347061\t1472695347192\to\t79'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996589\t1472695347223\t1472695347296\tt\t84'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996593\t1472695347311\t1472695347471\t \t32'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996596\t1472695347894\t1472695348000\tb\t66'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996600\t1472695348901\t1472695348969\te\t69'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996603\t1472695349369\t1472695349455\t \t32'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996632\t1472695349504\t1472695349654\tl\t76'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996634\t1472695349669\t1472695349769\te\t69'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996635\t1472695349854\t1472695349954\tf\t70'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996636\t1472695350143\t1472695350254\tt\t84'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996637\t1472695350355\t1472695350473\t \t32'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996683\t1472695350675\t1472695350821\tb\t66'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996686\t1472695351190\t1472695351281\te\t69'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996690\t1472695351397\t1472695351520\th\t72'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996693\t1472695351535\t1472695351724\ti\t73'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996738\t1472695351670\t1472695351821\tn\t78'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996740\t1472695351951\t1472695352054\td\t68'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996743\t1472695352170\t1472695352296\t \t32'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996747\t1472695352312\t1472695352416\ta\t65'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996750\t1472695352619\t1472695352704\tBKSP\t8'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996754\t1472695352835\t1472695353023\to\t79'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996815\t1472695352982\t1472695353070\tn\t78'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996817\t1472695353135\t1472695353247\t \t32'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996819\t1472695353220\t1472695353326\ta\t65'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996821\t1472695353304\t1472695353454\t \t32'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996824\t1472695354264\t1472695354400\tr\t82'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996827\t1472695354419\t1472695354566\te\t69'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996841\t1472695354670\t1472695354786\ts\t83'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996844\t1472695354840\t1472695354973\tt\t84'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996853\t1472695355004\t1472695355130\ta\t65'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996860\t1472695355071\t1472695355192\tr\t82'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996866\t1472695355266\t1472695355401\tt\t84'
+'59468\t651744\tThis time, Nigel Mansell will not be left behind on a restart.\tThis time, Nigel Mansell will not be left behind on a restart.\t30996912\t1472695355618\t1472695355701\t.\t190'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997050\t1472695358154\t1472695358246\ts\t83'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997052\t1472695358254\t1472695358331\th\t72'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997054\t1472695358849\t1472695358931\te\t69'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997055\t1472695358988\t1472695359104\t \t32'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997056\t1472695359312\t1472695359397\tBKSP\t8'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997057\t1472695359486\t1472695359531\tBKSP\t8'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997058\t1472695359609\t1472695359663\tBKSP\t8'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997060\t1472695359752\t1472695359891\tBKSP\t8'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997062\t1472695360094\t1472695360265\tSHIFT\t16'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997097\t1472695360214\t1472695360343\tS\t83'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997100\t1472695360371\t1472695360454\th\t72'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997104\t1472695360494\t1472695360546\te\t69'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997107\t1472695360986\t1472695361110\t \t32'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997112\t1472695361292\t1472695361398\ta\t65'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997154\t1472695361378\t1472695361478\th\t72'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997159\t1472695361654\t1472695361722\tBKSP\t8'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997163\t1472695361769\t1472695361891\tBKSP\t8'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997166\t1472695362042\t1472695362230\th\t72'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997168\t1472695362205\t1472695362292\ta\t65'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997170\t1472695362333\t1472695362463\ts\t83'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997172\t1472695362479\t1472695362558\t \t32'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997189\t1472695362519\t1472695362686\tt\t84'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997190\t1472695362616\t1472695362727\th\t72'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997191\t1472695362663\t1472695362806\te\t69'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997192\t1472695362782\t1472695362906\t \t32'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997193\t1472695362974\t1472695363097\tg\t71'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997194\t1472695363143\t1472695363251\ta\t65'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997195\t1472695363265\t1472695363391\tm\t77'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997196\t1472695363350\t1472695363478\te\t69'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997197\t1472695363455\t1472695363613\t \t32'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997199\t1472695363629\t1472695363717\tt\t84'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997201\t1472695363733\t1472695363839\to\t79'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997231\t1472695363900\t1472695364006\tm\t77'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997234\t1472695364274\t1472695364354\to\t79'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997237\t1472695364416\t1472695364475\tr\t82'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997240\t1472695364790\t1472695364890\tr\t82'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997243\t1472695364958\t1472695365080\to\t79'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997314\t1472695365097\t1472695365166\tw\t87'
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997317\t1472695365229\t1472695365289\t.\t190'
+"59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997321\t1472695365870\t1472695365938\t'\t222"
+'59468\t651761\tShe has the game tomorrow.\tShe has the game tomorrow.\t30997323\t1472695366958\t1472695367035\tBKSP\t8'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997466\t1472695369651\t1472695369754\tSHIFT\t16'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997470\t1472695369770\t1472695369885\td\t68'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997474\t1472695369901\t1472695369954\ti\t73'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997477\t1472695370100\t1472695370185\tp\t80'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997480\t1472695370232\t1472695370300\tp\t80'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997482\t1472695370654\t1472695370732\tBKSP\t8'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997483\t1472695371198\t1472695371275\tl\t76'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997512\t1472695371353\t1472695371432\to\t79'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997515\t1472695371532\t1472695371630\tm\t77'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997520\t1472695371678\t1472695371797\ta\t65'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997524\t1472695371901\t1472695371991\tt\t84'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997530\t1472695372226\t1472695372329\ts\t83'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997552\t1472695372397\t1472695372497\t \t32'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997554\t1472695372513\t1472695372618\ta\t65'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997557\t1472695372665\t1472695372832\tr\t82'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997559\t1472695372779\t1472695372926\te\t69'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997583\t1472695372903\t1472695373035\t \t32'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997585\t1472695373204\t1472695373280\tp\t80'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997589\t1472695373325\t1472695373454\tr\t82'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997592\t1472695373472\t1472695373578\te\t69'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997595\t1472695373751\t1472695373845\td\t68'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997598\t1472695373954\t1472695374022\ti\t73'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997634\t1472695374290\t1472695374394\tc\t67'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997637\t1472695374473\t1472695374582\tt\t84'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997639\t1472695374613\t1472695374766\ti\t73'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997640\t1472695374696\t1472695374863\tn\t78'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997641\t1472695374895\t1472695374978\tg\t71'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997648\t1472695375001\t1472695375134\t \t32'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997652\t1472695375238\t1472695375367\tt\t84'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997656\t1472695375338\t1472695375470\th\t72'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997681\t1472695375446\t1472695375578\tt\t84'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997683\t1472695375394\t1472695375614\ta\t65'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997687\t1472695375510\t1472695375643\t \t32'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997693\t1472695375658\t1472695375827\tt\t84'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997697\t1472695375743\t1472695375894\th\t72'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997702\t1472695375858\t1472695375974\te\t69'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997707\t1472695375994\t1472695376106\t \t32'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997737\t1472695376242\t1472695376358\te\t69'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997744\t1472695376421\t1472695376544\tm\t77'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997749\t1472695376647\t1472695376711\tp\t80'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997755\t1472695376953\t1472695377046\tBKSP\t8'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997761\t1472695377053\t1472695377142\tb\t66'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997765\t1472695377200\t1472695377316\ta\t65'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997799\t1472695377416\t1472695377492\tr\t82'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997801\t1472695378200\t1472695378290\tg\t71'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997803\t1472695378306\t1472695378390\to\t79'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997804\t1472695378470\t1472695378554\t \t32'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997805\t1472695378585\t1472695378670\tw\t87'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997819\t1472695378685\t1472695378754\ti\t73'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997821\t1472695378854\t1472695378908\tl\t76'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997824\t1472695378985\t1472695379085\tl\t76'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997828\t1472695379100\t1472695379204\t \t32'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997834\t1472695379236\t1472695379382\tr\t82'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997854\t1472695379353\t1472695379446\te\t69'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997857\t1472695379503\t1472695379620\tm\t77'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997859\t1472695379636\t1472695379720\ta\t65'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997860\t1472695379769\t1472695379814\tn\t78'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997861\t1472695379885\t1472695380006\ti\t73'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997931\t1472695379954\t1472695380116\tn\t78'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997933\t1472695380154\t1472695380224\tg\t71'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997935\t1472695380855\t1472695380937\tBKSP\t8'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997937\t1472695381002\t1472695381086\tBKSP\t8'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997938\t1472695381187\t1472695381333\tBKSP\t8'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997939\t1472695381438\t1472695381571\tBKSP\t8'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997940\t1472695381733\t1472695381835\ti\t73'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997941\t1472695381855\t1472695381955\tn\t78'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997942\t1472695382018\t1472695382151\t \t32'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997943\t1472695382187\t1472695382287\ti\t73'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997958\t1472695382305\t1472695382403\tn\t78'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997960\t1472695382556\t1472695382703\t \t32'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997962\t1472695382750\t1472695382802\tf\t70'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30997964\t1472695382884\t1472695382968\to\t79'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30998003\t1472695382926\t1472695383009\tr\t82'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30998005\t1472695383379\t1472695383478\tc\t67'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30998008\t1472695383502\t1472695383614\te\t69'
+'59468\t651771\tDiplomats are predicting that the embargo will remain in force.\tdiplomats are predicting that the embargo will remain in force.\t30998011\t1472695383730\t1472695383815\t.\t190'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998144\t1472695386903\t1472695387814\tSHIFT\t16'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998147\t1472695387763\t1472695387833\tH\t72'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998150\t1472695387912\t1472695387995\ta\t65'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998155\t1472695388092\t1472695388246\ts\t83'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998159\t1472695388209\t1472695388360\t \t32'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998163\t1472695388423\t1472695388480\tb\t66'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998196\t1472695388750\t1472695388823\tBKSP\t8'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998200\t1472695389037\t1472695389142\tB\t66'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998202\t1472695389006\t1472695389160\tSHIFT\t16'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998204\t1472695389254\t1472695389361\tr\t82'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998206\t1472695389431\t1472695389510\ti\t73'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998208\t1472695389567\t1472695389644\ta\t65'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998210\t1472695389685\t1472695389776\tn\t78'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998215\t1472695389841\t1472695389942\t \t32'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998216\t1472695390112\t1472695390213\th\t72'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998217\t1472695390582\t1472695390690\ta\t65'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998218\t1472695390841\t1472695390942\td\t68'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998219\t1472695390957\t1472695391099\t \t32'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998239\t1472695391168\t1472695391334\th\t72'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998242\t1472695391349\t1472695391441\ti\t73'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998246\t1472695391502\t1472695391574\ts\t83'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998250\t1472695391604\t1472695391750\t \t32'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998257\t1472695392004\t1472695392119\to\t79'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998285\t1472695392282\t1472695392358\tBKSP\t8'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998288\t1472695392404\t1472695392494\tc\t67'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998291\t1472695392504\t1472695392622\to\t79'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998294\t1472695392598\t1472695392736\tn\t78'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998299\t1472695393025\t1472695393117\tt\t84'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998303\t1472695393221\t1472695393289\tr\t82'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998331\t1472695393353\t1472695393485\ta\t65'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998335\t1472695393608\t1472695393688\tc\t67'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998340\t1472695393814\t1472695393888\tt\t84'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998345\t1472695394045\t1472695394162\t \t32'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998349\t1472695394246\t1472695394350\ty\t89'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998469\t1472695394384\t1472695394469\te\t69'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998471\t1472695394546\t1472695394678\tt\t84'
+"59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998473\t1472695395067\t1472695395253\t'\t222"
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998475\t1472695395472\t1472695395554\tBKSP\t8'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998479\t1472695395832\t1472695395935\t)'
+'59468\t651780\tHas Brian had his contract yet?\tHas Brian had his contract yet\t30998482\t1472695395732\t1472695396070\tSHIFT\t16'
+"83712\t914614\tI wouldn't say I'm 100 percent but I'm darn close.\tI wouldn't say I'm 100 percent but I'm darn close.\t43507000\t1473063330318\t1473063330394\tBKSP\t8"
+"83712\t914614\tI wouldn't say I'm 100 percent but I'm darn close.\tI wouldn't say I'm 100 percent but I'm darn close.\t43507001\t1473063330954\t1473063331028\t;\t186"
+"83712\t914614\tI wouldn't say I'm 100 percent but I'm darn close.\tI wouldn't say I'm 100 percent but I'm darn close.\t43507002\t1473063331555\t1473063331626\tBKSP\t8"
+"83712\t914614\tI wouldn't say I'm 100 percent but I'm darn close.\tI wouldn't say I'm 100 percent but I'm darn close.\t43507003\t1473063331874\t1473063331972\t)"
+"83712\t914614\tI wouldn't say I'm 100 percent but I'm darn close.\tI wouldn't say I'm 100 percent but I'm darn close.\t43507005\t1473063331737\t1473063332092\tSHIFT\t16"
+'KEY_DOWN('
+'KEY_DOWN(\t186'
+'KEY_DOWN(\t222'
+'KEY_DOWN(ARw_DOWN)'
+'KEY_DOWN(F1)'
+'KEY_DOWN(F11)'
+'KEY_DOWN(F12)'
+'KEY_DOWN(F8)'
+'KEY_DOWN(NUM_0)'
+'KEY_DOWN(NUM_ADD)'
+'KEY_DOWN(NUM_MULT)'
+'KEY_DOWN(NUM_SUB)'
+'KEY_DOWN(PAUSE)'
+'KEY_DOWN(PG_UP)'
+'KEY_DOWN(PRT_SC)'
+'KEY_DOWN(SCR_LK)'
+'KEY_UP('
+'KEY_UP(\t186'
+'KEY_UP(\t222'
+'KEY_UP(ARw_DOWN)'
+'KEY_UP(F1)'
+'KEY_UP(F11)'
+'KEY_UP(F12)'
+'KEY_UP(F8)'
+'KEY_UP(NUM_0)'
+'KEY_UP(NUM_ADD)'
+'KEY_UP(NUM_MULT)'
+'KEY_UP(NUM_SUB)'
+'KEY_UP(PAUSE)'
+'KEY_UP(PG_UP)'
+'KEY_UP(PRT_SC)'
+'KEY_UP(SCR_LK)'

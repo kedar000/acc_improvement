@@ -1,0 +1,5 @@
+Detected special keys (from final_keystrokes):
+ALT, ARW_DOWN, ARW_LEFT, ARW_RIGHT, ARW_UP, BKSP, CAPS_LOCK, CTRL, DELETE, END, HOME, INSERT, MENU, NUM_1, NUM_2, NUM_5, NUM_7, NUM_9, NUM_LK, PG_DOWN, SHIFT, SPACE, WIN
+
+Eligible shortcut keys (normal typing keys excluded):
+ALT, ARW_DOWN, ARW_LEFT, ARW_RIGHT, ARW_UP, CTRL, END, HOME, INSERT, MENU, NUM_1, NUM_2, NUM_5, NUM_7, NUM_9, NUM_LK, PG_DOWN, WIN
