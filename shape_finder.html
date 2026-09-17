@@ -151,28 +151,27 @@ window.addEventListener(
 // ==================================================
 
 function parsePoints() {
+    const text = document.getElementById("input").value;
 
-  const text =
-    document.getElementById("input").value;
-
-  return text
-    .trim()
-    .split("\n")
-    .map(line => {
-
-      const values =
-        line.split(",").map(Number);
-
-      return {
-        x: values[0],
-        y: values[1]
-      };
-
-    })
-    .filter(p =>
-      Number.isFinite(p.x) &&
-      Number.isFinite(p.y)
+    const matches = text.match(
+        /\(\s*(-?\d+(?:\.\d+)?)\s*,\s*(-?\d+(?:\.\d+)?)\s*\)/g
     );
+
+    if (!matches) {
+        return [];
+    }
+
+    return matches.map(match => {
+        const values = match
+            .replace(/[()]/g, "")
+            .split(",")
+            .map(Number);
+
+        return {
+            x: values[0],
+            y: values[1]
+        };
+    });
 }
 
 
