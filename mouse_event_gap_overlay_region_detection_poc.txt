@@ -1,0 +1,1278 @@
+MOUSE EVENT GAP / ABRUPT JUMP BASED OVERLAY REGION DETECTION
+Proof of Concept (POC) Technical Document
+
+1. EXECUTIVE SUMMARY
+====================
+
+This POC investigates whether gaps in webpage-level mousemove events can be
+used to estimate a region where an external overlay may be present.
+
+The observed behavior is:
+
+    Mouse events before overlay
+            ↓
+    Cursor enters an external/non-observable surface
+            ↓
+    Webpage receives no mousemove events
+            ↓
+    Cursor exits
+            ↓
+    Webpage receives mousemove events again
+
+Instead of declaring an overlay from one gap, the system collects ALL
+significant gaps throughout the test.
+
+For each gap:
+
+    START = last recorded mouse position before the gap
+    END   = first recorded mouse position after the gap
+
+The START → END segment is stored.
+
+After many segments are collected, they are spatially aggregated to find
+areas repeatedly associated with missing mouse events.
+
+Final POC result:
+
+    Mouse events
+        ↓
+    Abrupt observation gaps
+        ↓
+    Start/end pairs
+        ↓
+    Gap segments
+        ↓
+    Spatial aggregation
+        ↓
+    Candidate region where an overlay may be present
+
+This is an estimation mechanism, not proof of the exact overlay boundary.
+
+
+2. PROBLEM STATEMENT
+====================
+
+The existing detector uses keyboard, shortcut, focus, blur, typing, and other
+browser events.
+
+These can become weak when:
+
+    - an overlay is opened before the test
+    - the overlay remains open
+    - the overlay does not steal focus
+    - an undetectable/no-focus-shift mode is used
+    - interaction occurs outside the observable webpage event stream
+
+The mouse-gap approach investigates an additional signal that may remain
+observable through the interruption in the webpage's mouse event stream.
+
+
+3. CORE IDEA
+============
+
+Normal pause:
+
+    (500,400)
+    (505,402)
+    (510,405)
+         ↓
+       5 sec
+         ↓
+    (512,406)
+
+The time gap is large, but the position difference is small.
+
+Potential observation gap:
+
+    (500,400)
+    (510,400)
+    (520,400)
+         ↓
+     NO EVENTS
+         ↓
+    (850,400)
+    (860,400)
+
+Previous position:
+
+    (520,400)
+
+Next position:
+
+    (850,400)
+
+Distance:
+
+    330 pixels
+
+Therefore:
+
+    START = (520,400)
+    END   = (850,400)
+
+This creates one candidate gap segment.
+
+
+4. IMPORTANT DISTINCTION
+========================
+
+The system must NOT assume:
+
+    overlay width = END X - START X
+
+The cursor may enter and exit the overlay somewhere inside its boundaries.
+
+Therefore START → END represents:
+
+    an unobserved/candidate movement path
+
+It does not necessarily represent the exact overlay width.
+
+Repeated observations are used to estimate the common region.
+
+
+5. WHY ONE GAP IS NOT ENOUGH
+============================
+
+A single large jump can have many explanations:
+
+    external overlay
+    another application/window
+    pointer leaving the webpage
+    browser behavior
+    event throttling
+    technical issue
+    fast legitimate movement
+
+Therefore:
+
+    One gap = observation
+
+while:
+
+    Multiple spatially consistent gaps = stronger evidence
+
+Example:
+
+    Gap 1: (500,300) → (820,300)
+    Gap 2: (520,320) → (840,320)
+    Gap 3: (490,350) → (810,350)
+    Gap 4: (510,280) → (830,280)
+
+These repeated paths can be aggregated into a candidate region.
+
+
+6. INPUT
+========
+
+Primary input:
+
+    timestamp
+    x
+    y
+
+Recommended additional data:
+
+    event type
+    viewport width
+    viewport height
+    devicePixelRatio
+    question ID
+    question type
+    current UI element
+    current test state
+    scroll position
+
+Example:
+
+    {
+        "timestamp": 1760000012345,
+        "event": "mousemove",
+        "x": 430,
+        "y": 300,
+        "viewportWidth": 1440,
+        "viewportHeight": 900,
+        "questionId": "Q1",
+        "questionType": "mcq",
+        "element": "BODY"
+    }
+
+
+7. DATA USED FOR GAP DETECTION
+==============================
+
+For every observed mouse event, retain:
+
+    previousX
+    previousY
+    previousTimestamp
+
+and the current:
+
+    currentX
+    currentY
+    currentTimestamp
+
+Calculate:
+
+    deltaX = currentX - previousX
+    deltaY = currentY - previousY
+
+    distance = sqrt(deltaX^2 + deltaY^2)
+
+    timeGap = currentTimestamp - previousTimestamp
+
+
+8. ABRUPT GAP DETECTION
+=======================
+
+A basic POC rule is:
+
+    IF
+        timeGap exceeds a minimum threshold
+    AND
+        position distance exceeds a movement threshold
+
+    THEN
+        record a candidate gap
+
+The exact thresholds must be determined experimentally.
+
+Do not assume a fixed value such as:
+
+    300 pixels = overlay
+
+Thresholds should consider:
+
+    viewport size
+    normal user movement
+    event frequency
+    browser behavior
+    device characteristics
+
+
+9. NORMALIZED COORDINATES
+=========================
+
+Pixel coordinates differ across screen sizes.
+
+Use:
+
+    normalizedX = x / viewportWidth
+    normalizedY = y / viewportHeight
+
+Example:
+
+    x = 720
+    viewportWidth = 1440
+
+    normalizedX = 0.50
+
+This allows spatial results to be compared across different viewport sizes.
+
+
+10. GAP RECORD
+==============
+
+Every detected gap should be stored as a structured record.
+
+Example:
+
+    {
+        "start": {
+            "x": 430,
+            "y": 300,
+            "normalizedX": 0.299,
+            "normalizedY": 0.333
+        },
+        "end": {
+            "x": 800,
+            "y": 300,
+            "normalizedX": 0.556,
+            "normalizedY": 0.333
+        },
+        "timeGapMs": 180,
+        "distancePx": 370,
+        "questionId": "Q1"
+    }
+
+
+11. START POINT
+===============
+
+START is the last mouse position received by the webpage before the gap.
+
+Example:
+
+    (400,300)
+    (410,300)
+    (420,300)
+    (430,300)
+
+Then:
+
+    START = (430,300)
+
+
+12. END POINT
+=============
+
+END is the first mouse position received after the gap.
+
+Example:
+
+    [No webpage mouse events]
+
+    (800,300)
+
+Then:
+
+    END = (800,300)
+
+
+13. GAP SEGMENT
+===============
+
+For every gap, draw/store the line between START and END.
+
+Example:
+
+    START                           END
+      ↓                              ↓
+
+    (430,300) ●──────────────────────● (800,300)
+
+The segment represents the spatial area across which intermediate webpage
+mouse events were not observed.
+
+
+14. COLLECT ALL GAPS THROUGHOUT THE TEST
+=========================================
+
+Do not make a final decision from one gap.
+
+Example:
+
+    Q1 → Gap 1
+    Q2 → Gap 2
+    Q2 → Gap 3
+    Q3 → Gap 4
+    Q4 → Gap 5
+    Q4 → Gap 6
+
+At test completion:
+
+    Gap 1
+    Gap 2
+    Gap 3
+    Gap 4
+    Gap 5
+    Gap 6
+          ↓
+    spatial aggregation
+
+
+15. SPATIAL AGGREGATION
+=======================
+
+The objective is to find areas repeatedly crossed by gap segments.
+
+Example:
+
+    Gap 1:  ───────────────────
+    Gap 2:   ─────────────────────
+    Gap 3:  ──────────────────────
+    Gap 4:    ────────────────────
+
+The overlapping/common spatial area becomes a candidate region.
+
+The system should give more weight to regions supported by multiple
+independent gaps.
+
+
+16. RECOMMENDED AGGREGATION METHOD
+==================================
+
+For the first POC, use a 2D grid.
+
+Example:
+
+    40 × 40 cells
+
+For every detected START → END segment:
+
+    - determine which cells the segment crosses
+    - increment those cells
+
+At the end:
+
+    cell support = number of gap segments crossing the cell
+
+Example:
+
+    Cell A = 1
+    Cell B = 2
+    Cell C = 14
+    Cell D = 17
+
+Cells C and D have stronger repeated spatial support.
+
+
+17. CANDIDATE REGION
+====================
+
+After calculating grid support:
+
+    1. Find high-support cells.
+    2. Group neighboring high-support cells.
+    3. Calculate a bounding rectangle.
+    4. Return that rectangle as the candidate region.
+
+Example:
+
+    {
+        "xMin": 0.36,
+        "xMax": 0.64,
+        "yMin": 0.22,
+        "yMax": 0.58
+    }
+
+This means the estimated candidate region occupies approximately:
+
+    36%–64% of viewport width
+    22%–58% of viewport height.
+
+
+18. REGION SUPPORT
+==================
+
+Every candidate region should contain a support count.
+
+Example:
+
+    Candidate region:
+        X = 0.36–0.64
+        Y = 0.22–0.58
+
+    Supporting gap segments:
+        11
+
+This is more useful than a binary:
+
+    overlay = true
+
+
+19. GAP VISUALIZATION
+=====================
+
+The POC should visualize:
+
+    test viewport
+    START points
+    END points
+    every gap segment
+    aggregated candidate region
+
+Conceptual output:
+
+    +--------------------------------------+
+    |                                      |
+    |    ●──────────────●                  |
+    |      ●──────────────●                |
+    |        ┌──────────────────┐          |
+    |    ●───│ candidate region │───●      |
+    |        │                  │          |
+    |      ●─└──────────────────┘─●        |
+    |                                      |
+    +--------------------------------------+
+
+
+20. GAP HEATMAP
+===============
+
+A heatmap can be used to visualize gap density.
+
+This is different from a normal mouse heatmap.
+
+Normal heatmap:
+
+    where mouse activity occurred
+
+Gap heatmap:
+
+    where detected observation-gap segments repeatedly crossed
+
+For every cell:
+
+    gapDensity[cell] =
+        number of detected gap segments crossing the cell
+
+High-density cells form the candidate region.
+
+
+21. HORIZONTAL MOVEMENT
+=======================
+
+Example:
+
+    ● ● ● ● ● |----------------| ● ● ● ●
+              ↑                ↑
+            START              END
+
+Repeated examples:
+
+    500 → 850
+    520 → 840
+    510 → 860
+    530 → 830
+
+These intervals can indicate a common X region.
+
+The exact boundary should be estimated statistically rather than assumed
+from one event.
+
+
+22. VERTICAL MOVEMENT
+=====================
+
+The same process works vertically.
+
+Example:
+
+    ●
+    ●
+    ●
+    |
+    |
+    |  event gap
+    |
+    |
+    ●
+    ●
+
+Repeated vertical gaps can provide information about the Y range.
+
+
+23. DIAGONAL MOVEMENT
+=====================
+
+Real users move diagonally.
+
+Example:
+
+    START ●
+                                                  ● END
+
+The algorithm should therefore operate on actual 2D segments, not only
+horizontal or vertical distances.
+
+
+24. FINAL POC OUTPUT
+====================
+
+The POC should produce three primary outputs.
+
+OUTPUT 1:
+    All detected gaps.
+
+OUTPUT 2:
+    Visualization of every START → END segment.
+
+OUTPUT 3:
+    Aggregated candidate region.
+
+
+25. EXAMPLE FINAL RESULT
+========================
+
+    Session:
+        S001
+
+    Total mouse events:
+        18,420
+
+    Detected candidate gaps:
+        14
+
+    Candidate region:
+        X = 0.36–0.64
+        Y = 0.22–0.58
+
+    Supporting gap segments:
+        11
+
+    Average gap distance:
+        315 px
+
+    Average gap duration:
+        180 ms
+
+
+26. STRUCTURED FINAL OUTPUT
+===========================
+
+Example:
+
+    {
+        "sessionId": "S001",
+        "gapCount": 14,
+
+        "candidateRegion": {
+            "xMin": 0.36,
+            "xMax": 0.64,
+            "yMin": 0.22,
+            "yMax": 0.58
+        },
+
+        "supportingGapCount": 11,
+
+        "gaps": [
+            {
+                "start": {"x": 500, "y": 300},
+                "end": {"x": 820, "y": 300},
+                "distancePx": 320,
+                "timeGapMs": 170
+            }
+        ]
+    }
+
+
+27. FALSE POSITIVE SCENARIOS
+=============================
+
+The POC must test:
+
+    - user stops moving
+    - user stops for several seconds and resumes nearby
+    - very fast legitimate movement
+    - pointer leaves the webpage
+    - movement between windows
+    - second monitor
+    - browser resize
+    - scrolling
+    - event throttling
+    - accidental mouse movement
+    - browser UI interaction
+    - temporary event-delivery issues
+
+These scenarios can also create large observation gaps.
+
+
+28. CONTROLLED OVERLAY TEST SCENARIOS
+=====================================
+
+Create controlled scenarios with known positions.
+
+Example:
+
+    Scenario A:
+        no overlay
+
+    Scenario B:
+        overlay top-right
+
+    Scenario C:
+        overlay center
+
+    Scenario D:
+        overlay bottom-left
+
+    Scenario E:
+        overlay remains open throughout the test
+
+    Scenario F:
+        overlay does not change browser focus
+
+For each session record the known experimental condition.
+
+
+29. DIFFERENT OVERLAY SIZES
+===========================
+
+Test multiple sizes.
+
+Example:
+
+    200 × 150
+    400 × 300
+    700 × 500
+
+Compare:
+
+    actual overlay region
+
+against:
+
+    estimated candidate region
+
+This determines how accurately the spatial method can estimate location.
+
+
+30. DIFFERENT OVERLAY POSITIONS
+===============================
+
+Test:
+
+    top-left
+    top-center
+    top-right
+    center-left
+    center
+    center-right
+    bottom-left
+    bottom-center
+    bottom-right
+
+The estimated region should be compared with the known controlled position.
+
+
+31. DIFFERENT MOUSE MOVEMENT PATTERNS
+=====================================
+
+Test:
+
+    horizontal
+    vertical
+    diagonal
+    random
+    slow
+    fast
+    curved
+
+This checks whether the method works only for simple movement or general
+mouse behavior.
+
+
+32. THRESHOLD SELECTION
+=======================
+
+At minimum the POC requires:
+
+    minimum time-gap threshold
+    minimum distance threshold
+
+Potential additional thresholds:
+
+    normalized distance
+    movement velocity
+    minimum support count
+    minimum number of independent time windows
+
+Do not select final values before examining normal-user data.
+
+
+33. ADAPTIVE THRESHOLDS
+=======================
+
+A fixed pixel threshold is not ideal.
+
+Example:
+
+    200 px on a 1920 px viewport
+
+is different from:
+
+    200 px on a 1024 px viewport.
+
+Use normalized distance where possible.
+
+You can also learn the normal movement distribution:
+
+    median movement
+    95th percentile
+    99th percentile
+
+Then identify movements that are unusually large relative to normal
+behavior.
+
+
+34. EVENT RATE
+==============
+
+Different browsers/devices may produce mouse events at different rates.
+
+Therefore event gaps must be interpreted using recent event frequency.
+
+Example:
+
+    normal event interval:
+        10–20 ms
+
+    current event interval:
+        250 ms
+
+This is more informative than evaluating 250 ms without knowing the normal
+event rate.
+
+
+35. MOVEMENT VELOCITY
+=====================
+
+Calculate:
+
+    velocity = distance / timeGap
+
+Example:
+
+    distance = 300 px
+    timeGap = 0.15 sec
+
+    velocity = 2000 px/sec
+
+Velocity is a useful feature but should not independently indicate an
+overlay.
+
+
+36. MOVEMENT DIRECTION
+=====================
+
+Calculate:
+
+    angle = atan2(deltaY, deltaX)
+
+This allows similar gap trajectories to be grouped.
+
+For example:
+
+    horizontal gaps
+    diagonal gaps
+    vertical gaps
+
+
+37. TEMPORAL SUPPORT
+====================
+
+Repeated observations should ideally occur at different times.
+
+For example:
+
+    Q1 → gap
+    Q2 → gap
+    Q3 → gap
+    Q4 → gap
+
+This is stronger than many nearly identical gaps occurring within one
+short moment.
+
+Therefore support can consider:
+
+    number of distinct questions
+    number of distinct time windows
+    number of independent interaction periods
+
+
+38. QUESTION-AWARE ANALYSIS
+===========================
+
+Different questions have different legitimate interaction regions.
+
+MCQ:
+
+    options are expected.
+
+Written:
+
+    textarea is expected.
+
+Therefore each gap should retain:
+
+    questionId
+    questionType
+    UI state
+
+A gap crossing a legitimate interactive element may have a different
+interpretation from a gap repeatedly crossing an irrelevant area.
+
+
+39. OUTSIDE-UI FILTER
+=====================
+
+The application knows expected interactive elements:
+
+    question
+    options
+    textarea
+    navigation
+    submit
+
+A candidate region consistently outside those areas can receive a different
+classification from a region that overlaps normal UI.
+
+
+40. MULTI-MONITOR LIMITATION
+============================
+
+Moving between monitors may create a webpage event gap.
+
+The webpage cannot reconstruct the actual physical mouse trajectory while
+the pointer is outside the webpage's observable area.
+
+Therefore multi-monitor movement is an important false-positive case.
+
+
+41. IMPORTANT BROWSER LIMITATION
+================================
+
+This POC works with mouse events delivered to the webpage.
+
+It does NOT provide OS-level mouse tracking.
+
+If an external overlay/application receives the pointer and the webpage
+receives no events, the exact trajectory during that interval is unknown.
+
+Therefore:
+
+    START = known
+    END = known
+    exact path between START and END = unknown
+
+The path is inferred for spatial aggregation.
+
+
+42. DATASET REQUIREMENTS
+========================
+
+Keep two broad classes of data.
+
+NORMAL:
+
+    normal test sessions
+    thinking pauses
+    normal fast movement
+    mouse leaving UI
+    scrolling
+    second-monitor scenarios
+    different user interaction styles
+
+CONTROLLED:
+
+    known overlay location
+    known overlay size
+    known overlay position
+    different movement patterns
+    no-focus-change scenarios
+    overlay-open-before-test scenarios
+
+Every session should have a ground-truth experimental condition.
+
+
+43. GROUND TRUTH
+================
+
+Example:
+
+    S001 → NORMAL
+    S002 → NORMAL
+    S003 → CONTROLLED_OVERLAY_TOP_RIGHT
+    S004 → NORMAL
+    S005 → CONTROLLED_OVERLAY_CENTER
+
+This allows the estimated candidate region to be compared with the actual
+controlled condition.
+
+
+44. SPATIAL EVALUATION
+=====================
+
+If the actual controlled overlay region is known, compare it with the
+estimated candidate region.
+
+Possible metrics:
+
+    Intersection over Union (IoU)
+    center-point distance
+    region overlap percentage
+
+Example:
+
+    Actual:
+        X = 500–800
+        Y = 300–600
+
+    Estimated:
+        X = 520–820
+        Y = 320–580
+
+The overlap can be quantified.
+
+
+45. BEHAVIORAL EVALUATION
+=========================
+
+Also evaluate:
+
+    Precision
+    Recall
+    F1 score
+    False Positive Rate
+    False Negative Rate
+
+These evaluate whether the gap signal is useful for distinguishing
+controlled conditions from normal behavior.
+
+
+46. WHAT THE POC SHOULD PROVE
+=============================
+
+The POC should answer:
+
+    1. Can mouse events be collected reliably?
+
+    2. Can large observation gaps be detected?
+
+    3. Can normal pauses be distinguished from large position changes?
+
+    4. Can START/END pairs be extracted reliably?
+
+    5. Can gap segments be visualized?
+
+    6. Can repeated segments identify a common spatial region?
+
+    7. Does that region overlap a controlled overlay?
+
+    8. How often does normal behavior create similar regions?
+
+    9. Does the signal work for different overlay sizes?
+
+    10. Does it work for different overlay positions?
+
+    11. Does it add information beyond the existing keyboard/focus model?
+
+
+47. MINIMUM VIABLE POC
+======================
+
+The first implementation only needs:
+
+    1. mousemove listener
+    2. timestamp
+    3. X/Y
+    4. previous position
+    5. time gap
+    6. distance calculation
+    7. abrupt-gap threshold
+    8. START/END storage
+    9. segment visualization
+    10. candidate-region calculation
+
+
+48. DEVELOPMENT PHASES
+=======================
+
+PHASE 1:
+    Collect raw mouse events.
+
+PHASE 2:
+    Calculate position distance and time gap.
+
+PHASE 3:
+    Detect candidate gaps.
+
+PHASE 4:
+    Store START/END pairs.
+
+PHASE 5:
+    Draw every gap segment.
+
+PHASE 6:
+    Build grid-based gap density.
+
+PHASE 7:
+    Find repeated/high-support regions.
+
+PHASE 8:
+    Compare candidate regions with controlled overlay positions.
+
+PHASE 9:
+    Measure false positives and false negatives.
+
+PHASE 10:
+    Extract validated gap features.
+
+PHASE 11:
+    Integrate with the existing GRU/LSTM only if the signal proves useful.
+
+
+49. MODEL INPUT VS POC OUTPUT
+=============================
+
+Initial POC:
+
+    INPUT:
+        raw mouse events
+
+    OUTPUT:
+        gap records
+        START/END points
+        gap segments
+        candidate region
+        spatial statistics
+
+No machine-learning model is required initially.
+
+After validation, derived features can become ML inputs.
+
+
+50. POSSIBLE FEATURES FOR EXISTING GRU/LSTM
+===========================================
+
+Example feature vector:
+
+    gapDistance
+    gapDuration
+    gapVelocity
+    gapDirection
+    startX
+    startY
+    endX
+    endY
+    normalizedStartX
+    normalizedStartY
+    normalizedEndX
+    normalizedEndY
+    regionSupport
+    outsideUI
+    questionType
+    timeSincePreviousGap
+
+These can be combined with the existing:
+
+    keyboard features
+    typing features
+    answer-length features
+    focus events
+    question context
+
+
+51. FINAL ARCHITECTURE
+======================
+
+                 MOUSE EVENTS
+                      ↓
+              Track X / Y / Time
+                      ↓
+             Calculate distance
+             and time gap
+                      ↓
+              Abrupt-gap detector
+                      ↓
+             START / END pair
+                      ↓
+                Gap segment
+                      ↓
+        Repeat throughout test
+                      ↓
+          Spatial aggregation
+                      ↓
+          Candidate region
+                      ↓
+       +--------------------------+
+       | Mouse gap features       |
+       | Keyboard features        |
+       | Answer behavior          |
+       | UI context               |
+       +------------+-------------+
+                    ↓
+                 GRU/LSTM
+                    ↓
+          Combined behavioral signal
+
+
+52. KEY HYPOTHESIS
+==================
+
+The hypothesis is:
+
+    "If an external overlay causes webpage-level mouse events to disappear
+     while the cursor crosses its area, repeated observation gaps can
+     contain enough spatial information to estimate a candidate region."
+
+This must be experimentally validated.
+
+
+53. EXPECTED POC OUTCOMES
+=========================
+
+OUTCOME A - Strong signal
+
+Repeated gaps consistently identify the controlled overlay region.
+
+Next:
+
+    larger dataset
+    improved spatial estimation
+    ML integration
+
+
+OUTCOME B - Partial signal
+
+Some positions/sizes produce useful results while others do not.
+
+Next:
+
+    combine gap features with keyboard, focus, typing, and answer behavior.
+
+
+OUTCOME C - Weak signal
+
+Normal behavior creates similar patterns or controlled overlays do not
+produce reliable spatial regions.
+
+Next:
+
+    document the limitation and investigate other telemetry.
+
+
+54. FINAL SUMMARY
+=================
+
+The complete approach is:
+
+    1. Monitor webpage mouse events.
+
+    2. Keep the last observed mouse position.
+
+    3. When the next mouse event arrives, calculate:
+           time gap
+           position distance
+
+    4. If the combination is unusually large, create a candidate gap.
+
+    5. Save:
+           START = last event before gap
+           END   = first event after gap
+
+    6. Draw the START → END segment.
+
+    7. Repeat for the entire test.
+
+    8. Aggregate all segments spatially.
+
+    9. Find regions repeatedly crossed by candidate gaps.
+
+    10. Return the region as a candidate non-observable/possible overlay
+        area.
+
+The central principle is:
+
+    ONE GAP
+        = observation
+
+    MANY CONSISTENT GAPS
+        = spatial evidence
+
+    SPATIAL EVIDENCE
+        = candidate region
+
+The final POC output is therefore not simply:
+
+    "Overlay detected."
+
+It is:
+
+    "A candidate region was identified because multiple abrupt gaps in
+     webpage-level mouse observations repeatedly crossed this area."
+
+This candidate-region signal can then be evaluated independently and,
+if validated, combined with the existing keyboard/focus/GRU/LSTM detection
+pipeline.
