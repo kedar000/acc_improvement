@@ -1,0 +1,820 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+
+  <title>RANSAC Shape Detection</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      width: 100vw;
+      height: 100vh;
+      overflow: hidden;
+      font-family: Arial, sans-serif;
+    }
+
+    #controls {
+      position: fixed;
+      top: 10px;
+      left: 10px;
+      z-index: 10;
+
+      background: white;
+      padding: 12px;
+
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    }
+
+    textarea {
+      width: 350px;
+      height: 150px;
+      font-family: monospace;
+    }
+
+    button {
+      margin-top: 8px;
+      padding: 8px 15px;
+    }
+
+    #canvas {
+      position: fixed;
+      left: 0;
+      top: 0;
+
+      width: 100vw;
+      height: 100vh;
+    }
+  </style>
+</head>
+
+<body>
+
+<div id="controls">
+
+  <b>Input coordinates</b>
+
+  <br><br>
+
+  <textarea id="input">200,150
+300,150
+400,150
+500,150
+600,150
+700,150
+
+700,200
+700,300
+700,400
+700,500
+
+600,500
+500,500
+400,500
+300,500
+200,500
+
+200,400
+200,300
+200,200
+
+50,50
+900,100
+100,600
+800,600</textarea>
+
+  <br>
+
+  <label>
+    Source Width:
+    <input id="sourceWidth" type="number" value="1000">
+  </label>
+
+  <br>
+
+  <label>
+    Source Height:
+    <input id="sourceHeight" type="number" value="700">
+  </label>
+
+  <br>
+
+  <button onclick="detectShape()">
+    Detect Shape
+  </button>
+
+  <div id="result"></div>
+
+</div>
+
+
+<canvas id="canvas"></canvas>
+
+
+<script>
+
+const canvas =
+  document.getElementById("canvas");
+
+const ctx =
+  canvas.getContext("2d");
+
+
+// ==================================================
+// VIEWPORT
+// ==================================================
+
+function resizeCanvas() {
+
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+
+}
+
+resizeCanvas();
+
+window.addEventListener(
+  "resize",
+  resizeCanvas
+);
+
+
+// ==================================================
+// PARSE POINTS
+// ==================================================
+
+function parsePoints() {
+
+  const text =
+    document.getElementById("input").value;
+
+  return text
+    .trim()
+    .split("\n")
+    .map(line => {
+
+      const values =
+        line.split(",").map(Number);
+
+      return {
+        x: values[0],
+        y: values[1]
+      };
+
+    })
+    .filter(p =>
+      Number.isFinite(p.x) &&
+      Number.isFinite(p.y)
+    );
+}
+
+
+// ==================================================
+// NORMALIZE TO VIEWPORT
+// ==================================================
+
+function normalizePoints(points) {
+
+  const sourceWidth =
+    Number(
+      document.getElementById("sourceWidth").value
+    );
+
+  const sourceHeight =
+    Number(
+      document.getElementById("sourceHeight").value
+    );
+
+  const viewportWidth =
+    window.innerWidth;
+
+  const viewportHeight =
+    window.innerHeight;
+
+
+  const scaleX =
+    viewportWidth / sourceWidth;
+
+  const scaleY =
+    viewportHeight / sourceHeight;
+
+
+  return points.map(p => {
+
+    return {
+
+      x: p.x * scaleX,
+
+      y: p.y * scaleY
+
+    };
+
+  });
+
+}
+
+
+// ==================================================
+// LINE FROM TWO POINTS
+// ==================================================
+
+function createLine(p1, p2) {
+
+  const A =
+    p2.y - p1.y;
+
+  const B =
+    p1.x - p2.x;
+
+  const C =
+    -(A * p1.x + B * p1.y);
+
+  return {
+    A,
+    B,
+    C
+  };
+
+}
+
+
+// ==================================================
+// POINT → LINE DISTANCE
+// ==================================================
+
+function pointLineDistance(point, line) {
+
+  return Math.abs(
+
+    line.A * point.x +
+    line.B * point.y +
+    line.C
+
+  ) / Math.sqrt(
+
+    line.A * line.A +
+    line.B * line.B
+
+  );
+
+}
+
+
+// ==================================================
+// RANSAC
+// ==================================================
+
+function ransac(
+  points,
+  iterations = 1000,
+  threshold = 8
+) {
+
+  let bestLine = null;
+
+  let bestInliers = [];
+
+
+  if (points.length < 2) {
+    return null;
+  }
+
+
+  for (let i = 0; i < iterations; i++) {
+
+    const index1 =
+      Math.floor(
+        Math.random() * points.length
+      );
+
+    const index2 =
+      Math.floor(
+        Math.random() * points.length
+      );
+
+
+    if (index1 === index2) {
+      continue;
+    }
+
+
+    const line =
+      createLine(
+        points[index1],
+        points[index2]
+      );
+
+
+    const inliers = [];
+
+
+    for (const point of points) {
+
+      const distance =
+        pointLineDistance(
+          point,
+          line
+        );
+
+
+      if (distance <= threshold) {
+
+        inliers.push(point);
+
+      }
+
+    }
+
+
+    if (
+      inliers.length >
+      bestInliers.length
+    ) {
+
+      bestLine = line;
+
+      bestInliers = inliers;
+
+    }
+
+  }
+
+
+  return {
+    line: bestLine,
+    inliers: bestInliers
+  };
+
+}
+
+
+// ==================================================
+// FIND 4 EDGES
+// ==================================================
+
+function findEdges(points) {
+
+  let remaining =
+    [...points];
+
+  const edges = [];
+
+
+  for (let i = 0; i < 4; i++) {
+
+    if (remaining.length < 2) {
+      break;
+    }
+
+
+    const result =
+      ransac(
+        remaining,
+        1500,
+        10
+      );
+
+
+    if (!result) {
+      break;
+    }
+
+
+    if (
+      result.inliers.length < 3
+    ) {
+      break;
+    }
+
+
+    edges.push(result);
+
+
+    const inlierSet =
+      new Set(result.inliers);
+
+
+    remaining =
+      remaining.filter(
+        p => !inlierSet.has(p)
+      );
+
+  }
+
+
+  return {
+    edges,
+    noise: remaining
+  };
+
+}
+
+
+// ==================================================
+// LINE INTERSECTION
+// ==================================================
+
+function intersection(l1, l2) {
+
+  const determinant =
+    l1.A * l2.B -
+    l2.A * l1.B;
+
+
+  if (
+    Math.abs(determinant) < 0.00001
+  ) {
+
+    return null;
+
+  }
+
+
+  const x =
+    (
+      l1.B * l2.C -
+      l2.B * l1.C
+    ) / determinant;
+
+
+  const y =
+    (
+      l1.C * l2.A -
+      l2.C * l1.A
+    ) / determinant;
+
+
+  return {
+    x,
+    y
+  };
+
+}
+
+
+// ==================================================
+// ANGLE BETWEEN LINES
+// ==================================================
+
+function lineAngle(l1, l2) {
+
+  const dot =
+    l1.A * l2.A +
+    l1.B * l2.B;
+
+
+  const mag1 =
+    Math.sqrt(
+      l1.A ** 2 +
+      l1.B ** 2
+    );
+
+
+  const mag2 =
+    Math.sqrt(
+      l2.A ** 2 +
+      l2.B ** 2
+    );
+
+
+  return Math.acos(
+    Math.min(
+      1,
+      Math.abs(dot) /
+      (mag1 * mag2)
+    )
+  ) * 180 / Math.PI;
+
+}
+
+
+// ==================================================
+// FIND CORNERS
+// ==================================================
+
+function findCorners(edges) {
+
+  const corners = [];
+
+
+  for (
+    let i = 0;
+    i < edges.length;
+    i++
+  ) {
+
+    for (
+      let j = i + 1;
+      j < edges.length;
+      j++
+    ) {
+
+      const angle =
+        lineAngle(
+          edges[i].line,
+          edges[j].line
+        );
+
+
+      // Approximately 90 degrees
+      if (
+        Math.abs(angle - 90) < 20
+      ) {
+
+        const point =
+          intersection(
+            edges[i].line,
+            edges[j].line
+          );
+
+
+        if (point) {
+
+          corners.push(point);
+
+        }
+
+      }
+
+    }
+
+  }
+
+
+  return corners;
+
+}
+
+
+// ==================================================
+// SORT CORNERS
+// ==================================================
+
+function sortCorners(corners) {
+
+  if (corners.length === 0) {
+    return corners;
+  }
+
+
+  const center =
+    corners.reduce(
+      (acc, p) => {
+
+        acc.x += p.x;
+        acc.y += p.y;
+
+        return acc;
+
+      },
+      { x: 0, y: 0 }
+    );
+
+
+  center.x /= corners.length;
+  center.y /= corners.length;
+
+
+  return corners.sort(
+    (a, b) => {
+
+      const angleA =
+        Math.atan2(
+          a.y - center.y,
+          a.x - center.x
+        );
+
+
+      const angleB =
+        Math.atan2(
+          b.y - center.y,
+          b.x - center.x
+        );
+
+
+      return angleA - angleB;
+
+    }
+  );
+
+}
+
+
+// ==================================================
+// DRAW POINT
+// ==================================================
+
+function drawPoint(
+  point,
+  radius
+) {
+
+  ctx.beginPath();
+
+  ctx.arc(
+    point.x,
+    point.y,
+    radius,
+    0,
+    Math.PI * 2
+  );
+
+  ctx.fill();
+
+}
+
+
+// ==================================================
+// DRAW EDGE BETWEEN CORNERS
+// ==================================================
+
+function drawShape(corners) {
+
+  if (corners.length < 4) {
+    return;
+  }
+
+
+  ctx.beginPath();
+
+  ctx.moveTo(
+    corners[0].x,
+    corners[0].y
+  );
+
+
+  for (
+    let i = 1;
+    i < corners.length;
+    i++
+  ) {
+
+    ctx.lineTo(
+      corners[i].x,
+      corners[i].y
+    );
+
+  }
+
+
+  ctx.closePath();
+
+  ctx.stroke();
+
+}
+
+
+// ==================================================
+// MAIN
+// ==================================================
+
+function detectShape() {
+
+  ctx.clearRect(
+    0,
+    0,
+    canvas.width,
+    canvas.height
+  );
+
+
+  const originalPoints =
+    parsePoints();
+
+
+  // Convert source coordinates
+  // into actual viewport coordinates
+
+  const points =
+    normalizePoints(
+      originalPoints
+    );
+
+
+  // RANSAC
+
+  const result =
+    findEdges(points);
+
+
+  const edges =
+    result.edges;
+
+  const noise =
+    result.noise;
+
+
+  // Find corners
+
+  let corners =
+    findCorners(edges);
+
+
+  corners =
+    sortCorners(corners);
+
+
+  // ==================================================
+  // DRAW ALL ORIGINAL POINTS
+  // ==================================================
+
+  ctx.fillStyle = "black";
+
+
+  points.forEach(point => {
+
+    drawPoint(
+      point,
+      4
+    );
+
+  });
+
+
+  // ==================================================
+  // DRAW NOISE
+  // ==================================================
+
+  ctx.fillStyle = "red";
+
+
+  noise.forEach(point => {
+
+    drawPoint(
+      point,
+      6
+    );
+
+  });
+
+
+  // ==================================================
+  // DRAW DETECTED SHAPE
+  // ==================================================
+
+  ctx.strokeStyle = "blue";
+
+  ctx.lineWidth = 4;
+
+
+  drawShape(
+    corners
+  );
+
+
+  // ==================================================
+  // DRAW CORNERS
+  // ==================================================
+
+  ctx.fillStyle = "green";
+
+
+  corners.forEach(point => {
+
+    drawPoint(
+      point,
+      7
+    );
+
+  });
+
+
+  // ==================================================
+  // RESULT
+  // ==================================================
+
+  document.getElementById(
+    "result"
+  ).innerHTML = `
+
+    <br>
+
+    Points: ${points.length}
+
+    <br>
+
+    Edges: ${edges.length}
+
+    <br>
+
+    Noise: ${noise.length}
+
+    <br>
+
+    Corners: ${corners.length}
+
+  `;
+
+}
+
+</script>
+
+</body>
+</html>
