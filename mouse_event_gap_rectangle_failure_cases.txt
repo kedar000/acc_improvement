@@ -1,0 +1,56 @@
+Mouse Event Gap → Rectangle Detection: Failure Cases
+
+1. Too few detected gaps - no
+2. All gaps have the same direction - no 
+3. All gaps occur near the same line 
+5. User crosses only one part of the overlay
+15. Multi-monitor movement
+23. Overlay moves during the test
+24. Overlay changes position
+26. Overlay changes shape
+27. Multiple overlays
+29. Different overlays at different positions
+35. Rounded/irregular overlay shape
+41. No evidence for all four rectangle edges
+49. Temporary webpage performance issues
+56. Browser zoom changes coordinate mapping
+61. Page layout changes during the test
+62. Questions have different layouts or positions
+63. Legitimate UI elements create similar gaps
+64. Menu/popover/modal interactions create similar gaps
+65. Drag-and-drop creates large movements
+66. Selecting text creates unusual movement patterns
+67. User moves mouse outside the test UI intentionally
+68. Candidate region is supported by only one question
+69. Candidate region is supported by only one movement direction
+70. Multiple valid regions have similar support
+71. No dominant region exists
+72. Threshold is too low
+73. Threshold is too high
+74. Fixed thresholds do not work across devices
+75. Fixed thresholds do not work across users
+76. Different mouse polling/event rates
+77. Sparse mouse movement during the entire test
+78. Very high mouse movement frequency
+79. Overlay position is near the screen edge
+80. Overlay extends beyond the viewport
+81. Overlay is larger than the observable webpage area
+82. Overlay covers only a small area
+83. Overlay partially overlaps the webpage
+84. Candidate region overlaps legitimate test content
+85. Rectangle fitting is distorted by outliers
+86. Rectangle fitting produces false boundaries
+87. Spatial clustering creates incorrect clusters
+88. Segment density is too weak
+89. Segment density is concentrated in the wrong area
+90. Different gap segments intersect accidentally
+91. Start/end points form misleading geometric patterns
+92. No repeated spatial pattern exists
+93. User behavior changes significantly during the test
+94. Different users produce different movement patterns
+95. Training/test data does not represent real user behavior
+96. Ground-truth overlay boundaries are unavailable
+97. Model is trained on limited overlay positions
+98. Model is trained on limited overlay sizes
+99. Model overfits to specific screen resolutions
+100. Rectangle detection gives evidence of an unobserved region, but cannot prove that the region is an external overlay

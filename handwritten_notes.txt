@@ -1,0 +1,23 @@
+- Shortcut we can keep for Cluely:
+
+1) Single keys:
+   - A-Z all keys.
+   - all numbers
+   - Special keys are not allowed like:
+     shift, control, command, window, fn, alt,
+     delete, backspace.
+
+   Insert can be put.
+   insert, F12, F11, F10, F9, ... F1,
+   page up and down.
+   ↑, ↓, ⊙, →, ← can be put.
+
+2) Double keys:
+   1. Shift + (A-Z) OR Shift + (1-0), OR
+      Shift + (any bracket like {, }, <, >, ....)
+   2. Control + any key
+      It should not be any other special key.
+   3. Same for alt.
+   4. Top row any key cannot be set as double key with.
+      them considering as special key
+      (F1, F2 + any key, (F12 + 3) - x - - -)

@@ -1,0 +1,700 @@
+RANSAC-BASED RECTANGLE EDGE DETECTION ( Random Sample Consensus )
+=========================================
+
+1. PROBLEM
+-----------
+Input:
+A set of (x, y) coordinates.
+
+Most points lie on the perimeter of a regular shape, mainly a
+rectangle or square. Some points are noise and do not belong to
+the perimeter.
+
+Goal:
+- Find the four edges of the rectangle.
+- Identify points that belong to the edges.
+- Identify noise points.
+- Calculate the four corner coordinates.
+- Draw the detected rectangle on the viewport.
+
+
+2. OVERALL APPROACH
+-------------------
+The process is:
+
+Input points
+    |
+    v
+Randomly select two points
+    |
+    v
+Create a candidate line
+    |
+    v
+Calculate distance from every point to the line
+    |
+    v
+Classify points as INLIERS or OUTLIERS
+    |
+    v
+Repeat many times
+    |
+    v
+Select the line with the most inliers
+    |
+    v
+Remove its inlier points
+    |
+    v
+Run RANSAC again
+    |
+    v
+Find four candidate edges
+    |
+    v
+Validate that the four lines form a rectangle
+    |
+    v
+Calculate line intersections
+    |
+    v
+Get four corners
+    |
+    v
+Edge points + noise points
+
+
+3. WHY RANSAC IS USED
+---------------------
+A normal line-fitting algorithm can be strongly affected by noise.
+
+Example:
+
+    Edge points:
+    o o o o o o o o o o o
+
+    Noise:
+                x
+        x
+                         x
+
+RANSAC is useful because it tries many random candidate lines and
+looks for the line supported by the largest number of points.
+
+The points close to the best line are called INLIERS.
+
+The points far from the line are called OUTLIERS.
+
+
+4. STEP 1 - RANDOMLY SELECT TWO POINTS
+---------------------------------------
+A line can be created from two points.
+
+Example:
+
+P1 = (100, 100)
+P2 = (300, 100)
+
+These two points define the candidate line:
+
+    P1 o----------------o P2
+
+
+5. STEP 2 - REPRESENT THE LINE
+------------------------------
+The line is represented as:
+
+    A*x + B*y + C = 0
+
+For two points:
+
+    P1 = (x1, y1)
+    P2 = (x2, y2)
+
+Calculate:
+
+    A = y2 - y1
+    B = x1 - x2
+    C = -(A*x1 + B*y1)
+
+Example:
+
+    P1 = (100, 100)
+    P2 = (300, 100)
+
+    A = 100 - 100 = 0
+    B = 100 - 300 = -200
+    C = -(0*100 + (-200)*100)
+      = 20000
+
+So:
+
+    0*x - 200*y + 20000 = 0
+
+which is equivalent to:
+
+    y = 100
+
+
+6. STEP 3 - CALCULATE POINT-TO-LINE DISTANCE
+--------------------------------------------
+For every input point, calculate its perpendicular distance from
+the candidate line.
+
+Formula:
+
+              |A*x + B*y + C|
+    distance = ----------------
+              sqrt(A^2 + B^2)
+
+Example:
+
+Line:
+
+    y = 100
+
+Point:
+
+    P = (200, 105)
+
+Distance:
+
+    |0*200 - 200*105 + 20000|
+    -------------------------
+          sqrt(0^2 + (-200)^2)
+
+    = 1000 / 200
+
+    = 5 pixels
+
+
+7. STEP 4 - CLASSIFY INLIERS AND OUTLIERS
+-----------------------------------------
+Define a distance threshold.
+
+Example:
+
+    threshold = 10 pixels
+
+Rule:
+
+    distance <= 10
+        -> INLIER
+
+    distance > 10
+        -> OUTLIER
+
+Example:
+
+    Point       Distance       Result
+
+    P1          2 px            INLIER
+    P2          5 px            INLIER
+    P3          8 px            INLIER
+    P4          11 px           OUTLIER
+    P5          30 px           OUTLIER
+
+The candidate line therefore has 3 inliers.
+
+
+8. STEP 5 - REPEAT RANDOMLY
+---------------------------
+RANSAC does not trust one random pair of points.
+
+It repeats the process many times.
+
+Example:
+
+    Iteration 1  -> 12 inliers
+    Iteration 2  -> 5 inliers
+    Iteration 3  -> 18 inliers
+    Iteration 4  -> 9 inliers
+    Iteration 5  -> 25 inliers
+    ...
+    Iteration 1000 -> 21 inliers
+
+The candidate line with the largest number of inliers is selected.
+
+Example:
+
+    Best line -> 25 inliers
+
+
+9. WHY THE CORRECT EDGE GETS SELECTED
+-------------------------------------
+Suppose the points look like:
+
+        o o o o o o o o o
+      o                   o
+     o                     o
+     o                     o
+      o                   o
+        o o o o o o o o o
+
+                 x
+             x
+                         x
+
+If RANSAC randomly selects two points on the top edge, the resulting
+line will be close to many points on that edge.
+
+Therefore it gets many inliers.
+
+A random line through noise will usually get only a few inliers.
+
+So the correct edge tends to have a much higher score.
+
+
+10. STEP 6 - FIND THE FIRST EDGE
+--------------------------------
+After all iterations, select the best line.
+
+For example:
+
+    Edge 1 = top edge
+
+All points within the threshold of this line are considered points
+belonging to Edge 1.
+
+
+11. STEP 7 - REMOVE THE FIRST EDGE POINTS
+-----------------------------------------
+Remove the inlier points from the remaining dataset.
+
+Before:
+
+        o o o o o o o
+      o               o
+      o               o
+      o               o
+        o o o o o o o
+
+After removing top-edge points:
+
+      o               o
+      o               o
+      o               o
+        o o o o o o o
+
+Run RANSAC again on the remaining points.
+
+
+12. STEP 8 - FIND THE OTHER EDGES
+---------------------------------
+Repeat the process.
+
+Example:
+
+    First RANSAC:
+        Edge 1 = top
+
+    Second RANSAC:
+        Edge 2 = right
+
+    Third RANSAC:
+        Edge 3 = bottom
+
+    Fourth RANSAC:
+        Edge 4 = left
+
+
+The result should look like:
+
+        Edge 1
+    o----------------o
+    |                |
+ E4 |                | E2
+    |                |
+    o----------------o
+        Edge 3
+
+
+13. IMPORTANT: FOUR LINES DO NOT AUTOMATICALLY MEAN RECTANGLE
+--------------------------------------------------------------
+Basic RANSAC only finds strong lines.
+
+The four lines might not belong to the same rectangle.
+
+Therefore, the candidate lines must be checked using rectangle
+geometry.
+
+
+14. RECTANGLE VALIDATION - PARALLEL EDGES
+-----------------------------------------
+Opposite edges of a rectangle are parallel.
+
+Therefore:
+
+    Edge 1 || Edge 3
+
+    Edge 2 || Edge 4
+
+
+15. RECTANGLE VALIDATION - PERPENDICULAR EDGES
+----------------------------------------------
+Adjacent edges of a rectangle are perpendicular.
+
+Therefore:
+
+    Edge 1 perpendicular to Edge 2
+    Edge 2 perpendicular to Edge 3
+    Edge 3 perpendicular to Edge 4
+    Edge 4 perpendicular to Edge 1
+
+Ideal angle:
+
+    90 degrees
+
+Because real coordinates contain noise, use a tolerance.
+
+Example:
+
+    Accept angle between 85 and 95 degrees.
+
+
+16. STEP 9 - FIND CORNERS
+-------------------------
+Once four valid edges are found, calculate their intersections.
+
+Example:
+
+    Edge 1 intersects Edge 2 -> Corner 1
+    Edge 2 intersects Edge 3 -> Corner 2
+    Edge 3 intersects Edge 4 -> Corner 3
+    Edge 4 intersects Edge 1 -> Corner 4
+
+
+For two lines:
+
+    A1*x + B1*y + C1 = 0
+
+    A2*x + B2*y + C2 = 0
+
+Calculate their intersection.
+
+Determinant:
+
+    D = A1*B2 - A2*B1
+
+If D is approximately zero, the lines are parallel and there is
+no finite intersection.
+
+Otherwise:
+
+    x = (B1*C2 - B2*C1) / D
+
+    y = (C1*A2 - C2*A1) / D
+
+
+17. FINAL RESULT
+----------------
+The algorithm produces:
+
+    4 edges
+    4 corners
+    edge/perimeter points
+    noise points
+
+Example:
+
+          Corner 1              Corner 2
+              o--------------------o
+              |                    |
+              |                    |
+              |                    |
+              |                    |
+              o--------------------o
+          Corner 4              Corner 3
+
+
+18. EDGE POINT DETECTION
+------------------------
+After fitting the final rectangle, each input point can be checked
+against all four edges.
+
+For a point P:
+
+    d1 = distance from P to Edge 1
+    d2 = distance from P to Edge 2
+    d3 = distance from P to Edge 3
+    d4 = distance from P to Edge 4
+
+Find:
+
+    minimumDistance = min(d1, d2, d3, d4)
+
+If:
+
+    minimumDistance <= threshold
+
+then the point is considered an edge point.
+
+Otherwise it is considered noise/non-edge.
+
+
+19. EXAMPLE
+-----------
+Suppose the final rectangle is:
+
+    (100,100) ---------------- (500,100)
+       |                           |
+       |                           |
+       |                           |
+       |                           |
+    (100,400) ---------------- (500,400)
+
+Point:
+
+    P = (300,104)
+
+Distance to top edge:
+
+    4 pixels
+
+Since:
+
+    4 <= threshold
+
+P is an edge point.
+
+Another point:
+
+    P = (300,250)
+
+Distances:
+
+    top    = 150
+    right  = 200
+    bottom = 150
+    left   = 200
+
+Minimum distance:
+
+    150 pixels
+
+Therefore P is not a perimeter point.
+
+
+20. RANSAC PARAMETERS
+---------------------
+Three important parameters are:
+
+A. ITERATIONS
+
+Example:
+
+    iterations = 1500
+
+Meaning:
+
+    Try 1500 random pairs of points.
+
+More iterations generally increase the chance of finding a good
+candidate line, but also increase computation.
+
+B. DISTANCE THRESHOLD
+
+Example:
+
+    threshold = 10 pixels
+
+This controls how far a point can be from an edge and still be
+considered an inlier.
+
+Too small:
+    Real edge points may be rejected.
+
+Too large:
+    Noise points may be accepted.
+
+C. MINIMUM INLIERS
+
+Example:
+
+    minimumInliers = 10
+
+A candidate line with fewer than this number of supporting points
+can be rejected.
+
+
+21. COORDINATE NORMALIZATION FOR VIEWPORT DRAWING
+-------------------------------------------------
+If the input coordinates come from a source screen with:
+
+    sourceWidth
+    sourceHeight
+
+and the browser viewport has:
+
+    viewportWidth
+    viewportHeight
+
+Calculate:
+
+    scaleX = viewportWidth / sourceWidth
+
+    scaleY = viewportHeight / sourceHeight
+
+Then:
+
+    normalizedX = x * scaleX
+
+    normalizedY = y * scaleY
+
+Example:
+
+Source:
+
+    1920 x 1080
+
+Viewport:
+
+    1280 x 720
+
+Point:
+
+    (960, 540)
+
+Normalized:
+
+    x = 960 * (1280 / 1920)
+      = 640
+
+    y = 540 * (720 / 1080)
+      = 360
+
+So the point is drawn at:
+
+    (640, 360)
+
+
+22. COMPLETE PIPELINE
+---------------------
+The complete system is:
+
+    Input (x,y) points
+            |
+            v
+    Normalize to viewport
+            |
+            v
+    RANSAC
+            |
+            v
+    Randomly choose 2 points
+            |
+            v
+    Create candidate line
+            |
+            v
+    Calculate distance for every point
+            |
+            v
+    Classify inliers/outliers
+            |
+            v
+    Count inliers
+            |
+            v
+    Repeat many iterations
+            |
+            v
+    Select strongest line
+            |
+            v
+    Remove its inliers
+            |
+            v
+    Run RANSAC again
+            |
+            v
+    Find 4 candidate edges
+            |
+            v
+    Check parallel/perpendicular constraints
+            |
+            v
+    Select valid rectangle
+            |
+            v
+    Calculate 4 line intersections
+            |
+            v
+    Get 4 corners
+            |
+            v
+    Classify edge points and noise
+            |
+            v
+    Draw points and rectangle on viewport
+
+
+23. IMPORTANT LIMITATION
+------------------------
+Basic RANSAC finds strong lines independently.
+
+It does not inherently understand that four lines belong to one
+rectangle.
+
+For a robust rectangle detector, the better approach is:
+
+    Generate candidate lines using RANSAC
+            |
+            v
+    Find pairs of parallel lines
+            |
+            v
+    Find perpendicular pairs
+            |
+            v
+    Construct possible rectangles
+            |
+            v
+    Score each rectangle
+            |
+            v
+    Select the rectangle with the strongest perimeter support
+
+The rectangle score can consider:
+
+    - Number of edge inliers
+    - Distance of points from edges
+    - Parallelism of opposite edges
+    - 90-degree angle accuracy
+    - Rectangle dimensions
+    - Number of unexplained/noise points
+
+
+24. SUMMARY
+-----------
+RANSAC does not directly "draw" a rectangle.
+
+It first finds lines that have strong support from the input points.
+
+The process is:
+
+    Random points
+        ->
+    Candidate line
+        ->
+    Point-to-line distances
+        ->
+    Inliers/outliers
+        ->
+    Repeat
+        ->
+    Best line
+        ->
+    Remove edge points
+        ->
+    Repeat for other edges
+        ->
+    Validate rectangle
+        ->
+    Find corners
+        ->
+    Draw rectangle
+
+The main reason RANSAC works for this problem is that the majority
+of your points belong to the perimeter, while only a smaller number
+are noise.
